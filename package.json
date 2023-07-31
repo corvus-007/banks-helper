@@ -1,0 +1,12 @@
+{
+  "name": "banks-helper",
+  "version": "1.1.5",
+  "description": "Helps to work with banks names",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Denis Vasilev",
+  "license": "ISC"
+}
