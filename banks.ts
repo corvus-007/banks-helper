@@ -642,12 +642,29 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'kapital_bank.png',
+        fileName: 'kapital_bank.svg',
         humanName: 'Kapital Bank',
         matchedBankNames: [
             'Kapital Bank',
             'KAPITAL BANK',
             'KAPITAL BANK JSB',
+        ],
+    },
+    {
+        fileName: 'unibank.png',
+        humanName: 'Unibank',
+        matchedBankNames: [
+            'Unibank',
+            'UNIBANK',
+            'UNIBANK COMMERCIAL BANK',
+        ],
+    },
+    {
+        fileName: 'rabitabank.svg',
+        humanName: 'Rabitabank',
+        matchedBankNames: [
+            'Rabitabank',
+            'RABITABANK OJSC',
         ],
     },
 ];
