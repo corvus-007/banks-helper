@@ -299,7 +299,7 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'ozonbank.png',
+        fileName: 'ozonbank.svg',
         humanName: 'OZON Банк',
         matchedBankNames: [
             'ОЗОН БАНК',
