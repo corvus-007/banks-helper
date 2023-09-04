@@ -543,7 +543,7 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'uglemetbank.jpeg',
+        fileName: 'uglemetbank.png',
         humanName: 'Углеметбанк',
         matchedBankNames: [
             'УГЛЕМЕТБАНК',
