@@ -80,7 +80,7 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'blank_bank.png',
+        fileName: 'blank_bank.svg',
         humanName: 'БЛАНК БАНК',
         matchedBankNames: [
             'БЛАНК БАНК',
