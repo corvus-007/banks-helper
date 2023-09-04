@@ -508,7 +508,7 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'tatsocbank.png',
+        fileName: 'tatsocbank.svg',
         humanName: 'ТАТСОЦБАНК',
         matchedBankNames: [
             'ТАТСОЦБАНК',
