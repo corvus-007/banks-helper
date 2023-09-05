@@ -71,7 +71,7 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'bank_rossiya.jpg',
+        fileName: 'bank_rossiya.svg',
         humanName: 'БАНК РОССИЯ',
         matchedBankNames: [
             'OJSC JSB ROSSIYA',
@@ -380,7 +380,7 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'rnkb_bank.png',
+        fileName: 'rnkb_bank.svg',
         humanName: 'Банк РНКБ',
         matchedBankNames: [
             'RNKB',
@@ -449,7 +449,7 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'sinara_bank.png',
+        fileName: 'sinara_bank.svg',
         humanName: 'Банк Синара',
         matchedBankNames: [
             'JSCB OF SUPPORT TO COMMERCE AND BUSINESS SKB BANK',
@@ -467,7 +467,7 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'smp_bank.jpg',
+        fileName: 'smp_bank.svg',
         humanName: 'СМП Банк',
         matchedBankNames: [
             'SEVERNY MORSKOY PUT OJSC',
@@ -492,7 +492,7 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'spbbank.png',
+        fileName: 'spbbank.svg',
         humanName: 'СПБ Банк',
         matchedBankNames: [
             'СПБ Банк',
@@ -516,7 +516,7 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'thbank.gif',
+        fileName: 'thbank.svg',
         humanName: 'Тольяттихимбанк',
         matchedBankNames: [
             'ТОЛЬЯТТИХИМБАНК',
@@ -524,7 +524,7 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'tinkoff_bank.png',
+        fileName: 'tinkoff_bank.svg',
         humanName: 'Тинькофф Банк',
         matchedBankNames: [
             'TINKOFF BANK',
@@ -590,7 +590,7 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'yandeks_bank.jpg',
+        fileName: 'yandeks_bank.svg',
         humanName: 'Яндекс Банк',
         matchedBankNames: [
             'YANDEX.MONEY NBCO LLC',
