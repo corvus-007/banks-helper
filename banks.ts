@@ -397,7 +397,7 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'rosbank.png',
+        fileName: 'rosbank.svg',
         humanName: 'РОСБАНК',
         matchedBankNames: [
             'JSCB ROSBANK',
