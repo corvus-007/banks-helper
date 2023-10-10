@@ -129,7 +129,7 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'ekaterinburg_bank.png',
+        fileName: 'ekaterinburg_bank.svg',
         humanName: 'Банк "Екатеринбург"',
         matchedBankNames: [
             'ЕКАТЕРИНБУРГ',
@@ -665,6 +665,20 @@ export const banks: IBankLogoItem[] = [
         matchedBankNames: [
             'Rabitabank',
             'RABITABANK OJSC',
+        ],
+    },
+    {
+        fileName: 'humo.png',
+        humanName: 'HUMO',
+        matchedBankNames: [
+            'HUMO',
+        ],
+    },
+    {
+        fileName: 'uzcard.svg',
+        humanName: 'UZCARD',
+        matchedBankNames: [
+            'UZCARD',
         ],
     },
 ];
