@@ -671,6 +671,7 @@ export const banks: IBankLogoItem[] = [
         fileName: 'aloqabank.svg',
         humanName: 'AloqaBank',
         matchedBankNames: [
+            'AloqaBank',
             'ALOQABANK',
             'JSC "ALOQABANK"',
         ],
