@@ -675,4 +675,11 @@ export const banks: IBankLogoItem[] = [
             'JSC "ALOQABANK"',
         ],
     },
+    {
+        fileName: 'turonbank.svg',
+        humanName: 'TURON BANK',
+        matchedBankNames: [
+            'TURON BANK',
+        ],
+    },
 ];
