@@ -668,17 +668,11 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
-        fileName: 'humo.png',
-        humanName: 'HUMO',
+        fileName: 'aloqabank.svg',
+        humanName: 'AloqaBank',
         matchedBankNames: [
-            'HUMO',
-        ],
-    },
-    {
-        fileName: 'uzcard.svg',
-        humanName: 'UZCARD',
-        matchedBankNames: [
-            'UZCARD',
+            'ALOQABANK',
+            'JSC "ALOQABANK"',
         ],
     },
 ];
