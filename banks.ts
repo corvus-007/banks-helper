@@ -684,6 +684,14 @@ export const banks: IBankLogoItem[] = [
         ],
     },
     {
+        fileName: 'agrobank.svg',
+        humanName: 'Agrobank',
+        matchedBankNames: [
+            'Agrobank',
+            'AGROBANK',
+        ],
+    },
+    {
         fileName: 'asakabank.svg',
         humanName: 'Asakabank',
         matchedBankNames: [
