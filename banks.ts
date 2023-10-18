@@ -707,4 +707,12 @@ export const banks: IBankLogoItem[] = [
             'PRIVATE OJSC BANK ASIA ALLIANCE BANK'
         ],
     },
+    {
+        fileName: 'davrbank.svg',
+        humanName: 'DAVR BANK',
+        matchedBankNames: [
+            'DAVR BANK',
+            'JOINT STOCK COMMERCIAL BANK DAVR BANK'
+        ],
+    },
 ];
