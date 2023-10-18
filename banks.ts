@@ -683,4 +683,12 @@ export const banks: IBankLogoItem[] = [
             'TURON BANK',
         ],
     },
+    {
+        fileName: 'asakabank.svg',
+        humanName: 'Asakabank',
+        matchedBankNames: [
+            'Asakabank',
+            'ASAKA BANK',
+        ],
+    },
 ];
