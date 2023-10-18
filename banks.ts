@@ -775,4 +775,11 @@ export const banks: IBankLogoItem[] = [
             'JSCB MIKROKREDITBANK',
         ],
     },
+    {
+        fileName: 'nbu.svg',
+        humanName: 'NBU',
+        matchedBankNames: [
+            'NBU',
+        ],
+    },
 ];
