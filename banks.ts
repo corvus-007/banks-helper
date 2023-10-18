@@ -724,4 +724,12 @@ export const banks: IBankLogoItem[] = [
             'OJSC HAMKOR BANK',
         ],
     },
+    {
+        fileName: 'infinbank.svg',
+        humanName: 'InFinBank',
+        matchedBankNames: [
+            'InFinBank',
+            'INFIN BANK',
+        ],
+    },
 ];
