@@ -790,4 +790,12 @@ export const banks: IBankLogoItem[] = [
             'O\'ZSANOATQURILISH BANK',
         ],
     },
+    {
+        fileName: 'ofb.svg',
+        humanName: 'Orient Finans Bank',
+        matchedBankNames: [
+            'Orient Finans Bank',
+            'ORIENT-FINANS BANK',
+        ],
+    },
 ];
