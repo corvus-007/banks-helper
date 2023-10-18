@@ -758,4 +758,12 @@ export const banks: IBankLogoItem[] = [
             'JOINT-STOCK COMMERCIAL BANK TENGE BANK',
         ],
     },
+    {
+        fileName: 'madadinvestbank.png',
+        humanName: 'Madad Invest Bank',
+        matchedBankNames: [
+            'Madad Invest Bank',
+            'MADAD INVEST BANK',
+        ],
+    },
 ];
