@@ -704,7 +704,7 @@ export const banks: IBankLogoItem[] = [
         humanName: 'ASIA ALLIANCE BANK',
         matchedBankNames: [
             'ASIA ALLIANCE BANK',
-            'PRIVATE OJSC BANK ASIA ALLIANCE BANK'
+            'PRIVATE OJSC BANK ASIA ALLIANCE BANK',
         ],
     },
     {
@@ -712,7 +712,16 @@ export const banks: IBankLogoItem[] = [
         humanName: 'DAVR BANK',
         matchedBankNames: [
             'DAVR BANK',
-            'JOINT STOCK COMMERCIAL BANK DAVR BANK'
+            'JOINT STOCK COMMERCIAL BANK DAVR BANK',
+        ],
+    },
+    {
+        fileName: 'hamkorbank.svg',
+        humanName: 'Hamkorbank',
+        matchedBankNames: [
+            'Hamkorbank',
+            'HAMKOR BANK',
+            'OJSC HAMKOR BANK',
         ],
     },
 ];
