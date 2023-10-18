@@ -749,4 +749,13 @@ export const banks: IBankLogoItem[] = [
             'JS COMMERCIAL MORTGAGE BANK IPOTEKA BANK',
         ],
     },
+    {
+        fileName: 'tengebank.png',
+        humanName: 'Tenge Bank',
+        matchedBankNames: [
+            'Tenge Bank',
+            'JSC "TENGE BANK"',
+            'JOINT-STOCK COMMERCIAL BANK TENGE BANK',
+        ],
+    },
 ];
