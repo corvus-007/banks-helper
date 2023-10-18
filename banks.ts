@@ -699,4 +699,12 @@ export const banks: IBankLogoItem[] = [
             'ASAKA BANK',
         ],
     },
+    {
+        fileName: 'aab.svg',
+        humanName: 'ASIA ALLIANCE BANK',
+        matchedBankNames: [
+            'ASIA ALLIANCE BANK',
+            'PRIVATE OJSC BANK ASIA ALLIANCE BANK'
+        ],
+    },
 ];
