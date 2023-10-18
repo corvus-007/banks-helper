@@ -766,4 +766,13 @@ export const banks: IBankLogoItem[] = [
             'MADAD INVEST BANK',
         ],
     },
+    {
+        fileName: 'mkbank.svg',
+        humanName: 'Mikrokreditbank',
+        matchedBankNames: [
+            'Mikrokreditbank',
+            'MIKROKREDITBANK',
+            'JSCB MIKROKREDITBANK',
+        ],
+    },
 ];
