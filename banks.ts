@@ -782,4 +782,12 @@ export const banks: IBankLogoItem[] = [
             'NBU',
         ],
     },
+    {
+        fileName: 'sqb.svg',
+        humanName: 'SQB',
+        matchedBankNames: [
+            'SQB',
+            'O\'ZSANOATQURILISH BANK',
+        ],
+    },
 ];
