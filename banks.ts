@@ -740,4 +740,13 @@ export const banks: IBankLogoItem[] = [
             'IPAK YO\'LI BANK',
         ],
     },
+    {
+        fileName: 'ipotekabank.svg',
+        humanName: 'Ipoteka-Bank',
+        matchedBankNames: [
+            'Ipoteka-Bank',
+            'IPOTEKA BANK',
+            'JS COMMERCIAL MORTGAGE BANK IPOTEKA BANK',
+        ],
+    },
 ];
