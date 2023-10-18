@@ -732,4 +732,12 @@ export const banks: IBankLogoItem[] = [
             'INFIN BANK',
         ],
     },
+    {
+        fileName: 'ipakyulibank.svg',
+        humanName: 'Ipak Yuli Bank',
+        matchedBankNames: [
+            'Ipak Yuli Bank',
+            'IPAK YO\'LI BANK',
+        ],
+    },
 ];
