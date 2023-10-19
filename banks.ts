@@ -871,4 +871,14 @@ export const banks: IBankLogoItem[] = [
             'UZKDB BANK',
         ],
     },
+    {
+        fileName: 'xb.svg',
+        humanName: 'Xalq bank',
+        matchedBankNames: [
+            'Xalq bank',
+            'XALQ BANK',
+            'OJSC XALQ BANK',
+            'OPEN JOINT-STOCK COMPANY XALQ BANK',
+        ],
+    },
 ];
