@@ -847,4 +847,12 @@ export const banks: IBankLogoItem[] = [
             'SAVDOGAR BANK',
         ],
     },
+    {
+        fileName: 'trastbank.svg',
+        humanName: 'Trastbank',
+        matchedBankNames: [
+            'Trastbank',
+            'TRASTBANK',
+        ],
+    },
 ];
