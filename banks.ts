@@ -814,4 +814,13 @@ export const banks: IBankLogoItem[] = [
             'POYTAXT BANK',
         ],
     },
+    {
+        fileName: 'qqb.svg',
+        humanName: 'Qishloq Qurilish Bank',
+        matchedBankNames: [
+            'Qishloq Qurilish Bank',
+            'QISHLOQ QURILISH BANK',
+            'OJSC CB QISHLOQ QURILISH BANK',
+        ],
+    },
 ];
