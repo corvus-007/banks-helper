@@ -863,4 +863,12 @@ export const banks: IBankLogoItem[] = [
             'UNIVERSALBANK',
         ],
     },
+    {
+        fileName: 'kdb.svg',
+        humanName: 'KDB Bank Uzbekistan',
+        matchedBankNames: [
+            'KDB Bank Uzbekistan',
+            'UZKDB BANK',
+        ],
+    },
 ];
