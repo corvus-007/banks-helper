@@ -881,4 +881,14 @@ export const banks: IBankLogoItem[] = [
             'OPEN JOINT-STOCK COMPANY XALQ BANK',
         ],
     },
+    {
+        fileName: 'ziraatbank.svg',
+        humanName: 'Ziraat Bank',
+        matchedBankNames: [
+            'Ziraat Bank',
+            'ZIRAAT BANK',
+            'ZIRAAT BANKASI',
+            'TURKISH ZIRAAT BANK BOSNIA D.D.',
+        ],
+    },
 ];
