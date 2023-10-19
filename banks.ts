@@ -855,4 +855,12 @@ export const banks: IBankLogoItem[] = [
             'TRASTBANK',
         ],
     },
+    {
+        fileName: 'universalbank.svg',
+        humanName: 'Universal Bank',
+        matchedBankNames: [
+            'Universal Bank',
+            'UNIVERSALBANK',
+        ],
+    },
 ];
