@@ -806,4 +806,12 @@ export const banks: IBankLogoItem[] = [
             'OZAGROEKSPORTBANK',
         ],
     },
+    {
+        fileName: 'poytaxtbank.svg',
+        humanName: 'Poytaxt Bank',
+        matchedBankNames: [
+            'Poytaxt Bank',
+            'POYTAXT BANK',
+        ],
+    },
 ];
