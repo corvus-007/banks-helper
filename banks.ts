@@ -798,4 +798,12 @@ export const banks: IBankLogoItem[] = [
             'ORIENT-FINANS BANK',
         ],
     },
+    {
+        fileName: 'uaeb.svg',
+        humanName: 'UzAgroExportBank',
+        matchedBankNames: [
+            'UzAgroExportBank',
+            'OZAGROEKSPORTBANK',
+        ],
+    },
 ];
