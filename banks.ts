@@ -823,4 +823,12 @@ export const banks: IBankLogoItem[] = [
             'OJSC CB QISHLOQ QURILISH BANK',
         ],
     },
+    {
+        fileName: 'ravnaqbank.svg',
+        humanName: 'Ravnaq-bank',
+        matchedBankNames: [
+            'Ravnaq-bank',
+            'RAVNAQ BANK',
+        ],
+    },
 ];
