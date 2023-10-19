@@ -839,4 +839,12 @@ export const banks: IBankLogoItem[] = [
             'SADERAT BANK',
         ],
     },
+    {
+        fileName: 'garantbank.svg',
+        humanName: 'Garant bank',
+        matchedBankNames: [
+            'Garant bank',
+            'SAVDOGAR BANK',
+        ],
+    },
 ];
