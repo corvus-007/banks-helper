@@ -4,8 +4,7 @@ const UNKNOWN_BANK_FILE_NAME = 'unknown.svg';
 
 export const getBankLogoFileName = (bankName: string) => {
     const bankLogoItem = banks.find(({ matchedBankNames, humanName }) => {
-        return matchedBankNames.includes(bankName)
-            || humanName === bankName;
+        return [...matchedBankNames, humanName].includes(bankName);
     });
 
     return bankLogoItem?.fileName ?? UNKNOWN_BANK_FILE_NAME;
@@ -13,8 +12,7 @@ export const getBankLogoFileName = (bankName: string) => {
 
 export const getBankLogoName = (bankName: string): string => {
     const bankLogoItem = banks.find(({ matchedBankNames, humanName }) => {
-        return matchedBankNames.includes(bankName)
-            || humanName === bankName;
+        return [...matchedBankNames, humanName].includes(bankName);
     });
 
     return bankLogoItem?.humanName ?? bankName;
