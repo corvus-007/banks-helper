@@ -1,19 +1,27 @@
 import { banks } from './banks';
+import { IBankLogoItem } from './IBankLogoItem';
 
 const UNKNOWN_BANK_FILE_NAME = 'unknown.svg';
 
-export const getBankLogoFileName = (bankName: string) => {
-    const bankLogoItem = banks.find(({ matchedBankNames, humanName }) => {
+const findBank = (bankName: string): IBankLogoItem => {
+    return banks.find(({ matchedBankNames, humanName }) => {
         return [...matchedBankNames, humanName].includes(bankName);
     });
+};
+
+const getBankLogoFileName = (bankName: string) => {
+    const bankLogoItem = findBank(bankName);
 
     return bankLogoItem?.fileName ?? UNKNOWN_BANK_FILE_NAME;
 };
 
-export const getBankLogoName = (bankName: string): string => {
-    const bankLogoItem = banks.find(({ matchedBankNames, humanName }) => {
-        return [...matchedBankNames, humanName].includes(bankName);
-    });
+const getBankLogoName = (bankName: string): string => {
+    const bankLogoItem = findBank(bankName);
 
     return bankLogoItem?.humanName ?? bankName;
+};
+
+export {
+    getBankLogoFileName,
+    getBankLogoName,
 };
