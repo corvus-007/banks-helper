@@ -1,6 +1,6 @@
 export interface IBankLogoItem
 {
-    fileName: string,
-    humanName: string;
-    matchedBankNames: string[];
+  fileName: string,
+  humanName: string;
+  matchedBankNames: string[];
 }
