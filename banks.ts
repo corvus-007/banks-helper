@@ -10,7 +10,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'ak_bars_bank.png',
-    humanName: 'Ак Барс Банк',
+    humanName: 'АК БАРС',
     matchedBankNames: [
       'JOINT STOCK COMMERCIAL BANK AK BARS',
       'JSCB AK BARS',
@@ -26,7 +26,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'alfa-bank.png',
-    humanName: 'Альфа-Банк',
+    humanName: 'АЛЬФА-БАНК',
     matchedBankNames: [
       'CJSC ALFA-BANK',
       'JOINT STOCK COMPANY ALFA-BANK',
@@ -41,7 +41,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'avangard_bank.png',
-    humanName: 'Банк Авангард',
+    humanName: 'АВАНГАРД',
     matchedBankNames: [
       'JSB AVANGARD',
       'АВАНГАРД',
@@ -61,7 +61,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'bank_rossiya.svg',
-    humanName: 'БАНК РОССИЯ',
+    humanName: 'РОССИЯ',
     matchedBankNames: [
       'OJSC JSB ROSSIYA',
       'РОССИЯ',
@@ -69,8 +69,10 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'blank_bank.svg',
-    humanName: 'БЛАНК БАНК',
-    matchedBankNames: [],
+    humanName: 'Бланк банк',
+    matchedBankNames: [
+      'БЛАНК БАНК'
+    ],
   },
   {
     fileName: 'dalnevostochnyj_bank.png',
@@ -97,8 +99,8 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'ekonombank.png',
-    humanName: 'ЭКОНОМБАНК',
-    matchedBankNames: [],
+    humanName: 'Экономбанк',
+    matchedBankNames: ['ЭКОНОМБАНК'],
   },
   {
     fileName: 'ekspobank.svg',
@@ -116,10 +118,8 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'fora_bank.png',
-    humanName: 'Фора-Банк',
-    matchedBankNames: [
-      'ФОРА-БАНК',
-    ],
+    humanName: 'ФОРА-БАНК',
+    matchedBankNames: [],
   },
   {
     fileName: 'gazprombank.png',
@@ -140,14 +140,14 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'hlynov_bank.png',
-    humanName: 'Банк Хлынов',
+    humanName: 'Хлынов',
     matchedBankNames: [
       'ХЛЫНОВ',
     ],
   },
   {
     fileName: 'houm_kredit_bank.png',
-    humanName: 'Хоум Кредит Банк',
+    humanName: 'ХКФ Банк',
     matchedBankNames: [
       'LIMITED LIABILITY COMPANY HOME CREDIT & FINANCE BANK',
       'LLC HOME CREDIT AND FINANCE BANK',
@@ -168,7 +168,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'kredit_evropa_bank.png',
-    humanName: 'Кредит Европа Банк',
+    humanName: 'Кредит Европа Банк (Россия)',
     matchedBankNames: [
       'CREDIT EUROPE BANK LTD',
     ],
@@ -182,7 +182,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'kuban_kredit_bank.png',
-    humanName: 'Банк "Кубань Кредит"',
+    humanName: 'Кубань Кредит',
     matchedBankNames: [
       'КУБАНЬ КРЕДИТ',
     ],
@@ -204,14 +204,14 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'moskovskij_kreditnyj_bank.png',
-    humanName: 'Московский кредитный банк',
+    humanName: 'МОСКОВСКИЙ КРЕДИТНЫЙ БАНК',
     matchedBankNames: [
       'Московский Кредитный Банк',
     ],
   },
   {
     fileName: 'mts-bank.png',
-    humanName: 'МТС Банк',
+    humanName: 'МТС-Банк',
     matchedBankNames: [
       'MTS',
       'MTS-BANK',
@@ -229,10 +229,9 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'novikombank.png',
-    humanName: 'Новикомбанк',
+    humanName: 'НОВИКОМБАНК',
     matchedBankNames: [
       'JSCB NOVIKOMBANK',
-      'НОВИКОМБАНК',
     ],
   },
   {
@@ -244,7 +243,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'otkrytie_bank.png',
-    humanName: 'Банк Открытие',
+    humanName: 'Банк "ФК Открытие"',
     matchedBankNames: [
       'CB OTKRITIE CJSC',
       'JSCB JSCB BINBANK',
@@ -257,7 +256,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'ozonbank.svg',
-    humanName: 'OZON Банк',
+    humanName: 'ОЗОН Банк',
     matchedBankNames: [
       'ОЗОН БАНК',
     ],
@@ -297,7 +296,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'qiwi_bank.png',
-    humanName: 'QIWI Банк',
+    humanName: 'КИВИ Банк',
     matchedBankNames: [
       'QIWI BANK (JSC)',
       'КИВИ БАНК',
@@ -314,7 +313,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'renessans_kredit_bank.png',
-    humanName: 'Банк "Ренессанс Кредит"',
+    humanName: 'Ренессанс Кредит',
     matchedBankNames: [
       'COMMERCIAL BANK RENAISSANCE CREDIT (LIMITED LIABILITY COMPANY)',
       'РЕНЕССАНС КРЕДИТ',
@@ -329,7 +328,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'rnkb_bank.svg',
-    humanName: 'Банк РНКБ',
+    humanName: 'РНКБ Банк',
     matchedBankNames: [
       'RNKB',
       'РОССИЙСКИЙ НАЦИОНАЛЬНЫЙ КОММЕРЧЕСКИЙ БАНК',
@@ -369,7 +368,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'sankt-peterburg_bank.png',
-    humanName: 'Банк Санкт-Петербург',
+    humanName: 'Банк "Санкт-Петербург"',
     matchedBankNames: [
       'BANK SAINT PETERSBURG',
       'BANK SAINT PETERSBURG OJSC',
@@ -379,7 +378,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'sberbank.png',
-    humanName: 'СберБанк',
+    humanName: 'Сбербанк',
     matchedBankNames: [
       'SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)',
       'sber',
@@ -476,7 +475,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'uralsib_bank.png',
-    humanName: 'Банк Уралсиб',
+    humanName: 'БАНК УРАЛСИБ',
     matchedBankNames: [
       'OJSC BANK URALSIB',
       'УРАЛСИБ',
@@ -484,7 +483,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'vbrr_bank.png',
-    humanName: 'ВБРР',
+    humanName: 'Банк "ВБРР"',
     matchedBankNames: [
       'JOINT-STOCK COMPANY RUSSIAN REGIONAL DEVELOPMENT BANK (RRDB)',
       'RUSSIAN REGIONAL DEVELOPMENT BANK',
