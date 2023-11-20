@@ -133,6 +133,30 @@ export const banks: IBankLogoItem[] = [
     matchedBankNames: [],
   },
   {
+    fileName: '',
+    humanName: 'комбанк "Арзамас"',
+    matchedBankNames: [
+      'АРЗАМАС',
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'Байкалкредобанк',
+    matchedBankNames: [
+      'БАЙКАЛКРЕДОБАНК',
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'БАЛАКОВО-БАНК',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'baltinvestbank.svg',
+    humanName: 'БАЛТИНВЕСТБАНК',
+    matchedBankNames: [],
+  },
+  {
     fileName: 'almazehrgiehnbank.svg',
     humanName: 'Алмазэргиэнбанк',
     matchedBankNames: [
@@ -170,6 +194,35 @@ export const banks: IBankLogoItem[] = [
     fileName: 'bank_orenburg.png',
     humanName: 'БАНК ОРЕНБУРГ',
     matchedBankNames: [],
+  },
+  {
+    fileName: 'round.svg',
+    humanName: 'банк Раунд',
+    matchedBankNames: [
+      'БАНК РАУНД'
+    ],
+  },
+  {
+    fileName: 'bankrmp.png',
+    humanName: 'Банк РМП',
+    matchedBankNames: [
+      'БАНК РМП'
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'Банк РСИ',
+    matchedBankNames: [
+      '"Bank RSI" Ltd.'
+    ],
+  },
+  {
+    fileName: 'severgazbank.svg',
+    humanName: 'БАНК СГБ',
+    matchedBankNames: [
+      'Joint-Stock Company "SEVERGAZBANK"',
+      '"BANK SGB" JSC'
+    ],
   },
   {
     fileName: 'bank_rossiya.svg',
@@ -479,13 +532,39 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'sankt-peterburg_bank.png',
+    fileName: 'sankt-peterburg_bank.svg',
     humanName: 'Банк "Санкт-Петербург"',
     matchedBankNames: [
       'BANK SAINT PETERSBURG',
       'BANK SAINT PETERSBURG OJSC',
       'BANK SAINT PETERSBURG PUBLIC JOINT-STOCK COMPANY',
       'БАНК САНКТ-ПЕТЕРБУРГ',
+    ],
+  },
+  {
+    fileName: '131.svg',
+    humanName: 'Банк 131',
+    matchedBankNames: [
+      'БАНК 131',
+    ],
+  },
+  {
+    fileName: '131.svg',
+    humanName: 'БАНК БЕРЕЙТ',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'domrfbank.svg',
+    humanName: 'Банк ДОМ.РФ',
+    matchedBankNames: [
+      'БАНК ДОМ.РФ'
+    ],
+  },
+  {
+    fileName: 'bgfbank.svg',
+    humanName: 'Банк БЖФ',
+    matchedBankNames: [
+      'БАНК ЖИЛИЩНОГО ФИНАНСИРОВАНИЯ'
     ],
   },
   {
@@ -644,10 +723,52 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'zenit_bank.png',
+    fileName: 'zenit_bank.svg',
     humanName: 'Банк ЗЕНИТ',
     matchedBankNames: [
       'БАНК ЗЕНИТ',
+    ],
+  },
+  {
+    fileName: 'bancaintesa.svg',
+    humanName: 'Банк Интеза',
+    matchedBankNames: [
+      'БАНК ИНТЕЗА',
+    ],
+  },
+  {
+    fileName: 'bankofkazan.svg',
+    humanName: 'Банк Казани',
+    matchedBankNames: [
+      'БАНК КАЗАНИ',
+    ],
+  },
+  {
+    fileName: 'cfb.svg',
+    humanName: 'Банк БКФ',
+    matchedBankNames: [
+      'БАНК КОРПОРАТИВНОГО ФИНАНСИРОВАНИЯ',
+    ],
+  },
+  {
+    fileName: 'bank-credit-suisse-moscow.svg',
+    humanName: 'Банк Кредит Свисс (Москва)',
+    matchedBankNames: [
+      'БАНК КРЕДИТ СВИСС (МОСКВА)',
+    ],
+  },
+  {
+    fileName: 'mp-bank.svg',
+    humanName: 'МП Банк',
+    matchedBankNames: [
+      'БАНК МИР ПРИВИЛЕГИЙ',
+    ],
+  },
+  {
+    fileName: 'bankorange.svg',
+    humanName: 'Банк Оранжевый',
+    matchedBankNames: [
+      'БАНК ОРАНЖЕВЫЙ',
     ],
   },
   {
