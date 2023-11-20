@@ -113,12 +113,24 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'alfa-bank.png',
+    fileName: 'alfa-bank.svg',
     humanName: 'АЛЬФА-БАНК',
     matchedBankNames: [
       'CJSC ALFA-BANK',
       'JOINT STOCK COMPANY ALFA-BANK',
     ],
+  },
+  {
+    fileName: 'americanexpress.svg',
+    humanName: 'Америкэн Экспресс Банк',
+    matchedBankNames: [
+      'АМЕРИКЭН ЭКСПРЕСС БАНК',
+    ],
+  },
+  {
+    fileName: 'aresbank.svg',
+    humanName: 'АРЕСБАНК',
+    matchedBankNames: [],
   },
   {
     fileName: 'almazehrgiehnbank.svg',
@@ -133,6 +145,11 @@ export const banks: IBankLogoItem[] = [
     matchedBankNames: [
       'АЛТАЙКАПИТАЛБАНК',
     ],
+  },
+  {
+    fileName: 'altynbank.svg',
+    humanName: 'АЛТЫНБАНК',
+    matchedBankNames: [],
   },
   {
     fileName: 'avangard_bank.png',
