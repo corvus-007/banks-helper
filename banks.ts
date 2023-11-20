@@ -2,6 +2,47 @@ import { IBankLogoItem } from './IBankLogoItem';
 
 export const banks: IBankLogoItem[] = [
   {
+    fileName: 'absolutbank.svg',
+    humanName: 'Абсолют Банк',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'aversbank.svg',
+    humanName: 'Банк "Аверс"',
+    matchedBankNames: [
+      'Аверс',
+      'АВЕРС',
+    ],
+  },
+  {
+    fileName: 'avtogradbank.svg',
+    humanName: 'Автоградбанк',
+    matchedBankNames: [
+      'АВТОГРАДБАНК',
+    ],
+  },
+  {
+    fileName: 'autokreditbank.png',
+    humanName: 'АвтоКредитБанк',
+    matchedBankNames: [
+      'АВТОКРЕДИТБАНК',
+    ],
+  },
+  {
+    fileName: 'avtotorgbank.svg',
+    humanName: '"АТБ" Банк',
+    matchedBankNames: [
+      'АВТОТОРГБАНК',
+    ],
+  },
+  {
+    fileName: 'kbagora.png',
+    humanName: 'БАНК "АГОРА"',
+    matchedBankNames: [
+      'АГОРА',
+    ],
+  },
+  {
     fileName: 'agropromkredit_bank.png',
     humanName: 'Банк АГРОПРОМКРЕДИТ',
     matchedBankNames: [
@@ -71,7 +112,7 @@ export const banks: IBankLogoItem[] = [
     fileName: 'blank_bank.svg',
     humanName: 'Бланк банк',
     matchedBankNames: [
-      'БЛАНК БАНК'
+      'БЛАНК БАНК',
     ],
   },
   {
