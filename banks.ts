@@ -29,6 +29,34 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'agroros.svg',
+    humanName: 'Банк "Агророс"',
+    matchedBankNames: [
+      'АГРОРОС',
+    ],
+  },
+  {
+    fileName: 'atb.svg',
+    humanName: 'Азиатско-Тихоокеанский Банк',
+    matchedBankNames: [
+      'АЗИАТСКО-ТИХООКЕАНСКИЙ БАНК',
+    ],
+  },
+  {
+    fileName: 'ai-bank.svg',
+    humanName: 'Азия-Инвест Банк',
+    matchedBankNames: [
+      'АЗИЯ-ИНВЕСТ БАНК',
+    ],
+  },
+  {
+    fileName: 'icbc.svg',
+    humanName: 'АйСиБиСи Банк',
+    matchedBankNames: [
+      'АЙСИБИСИ БАНК',
+    ],
+  },
+  {
     fileName: 'avtotorgbank.svg',
     humanName: '"АТБ" Банк',
     matchedBankNames: [
@@ -59,7 +87,26 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'alef-bank.png',
+    fileName: 'akibank.svg',
+    humanName: 'АКИБАНК',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'akcept.svg',
+    humanName: 'Банк Акцепт',
+    matchedBankNames: [
+      'АКЦЕПТ',
+    ],
+  },
+  {
+    fileName: 'abank.svg',
+    humanName: 'Банк "АЛЕКСАНДРОВСКИЙ"',
+    matchedBankNames: [
+      'АЛЕКСАНДРОВСКИЙ',
+    ],
+  },
+  {
+    fileName: 'alef-bank.svg',
     humanName: 'Алеф-Банк',
     matchedBankNames: [
       'АЛЕФ-БАНК',
@@ -74,10 +121,17 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'almazehrgiehnbank.png',
+    fileName: 'almazehrgiehnbank.svg',
     humanName: 'Алмазэргиэнбанк',
     matchedBankNames: [
       'АЛМАЗЭРГИЭНБАНК',
+    ],
+  },
+  {
+    fileName: 'almazehrgiehnbank.svg',
+    humanName: 'Алтайкапиталбанк',
+    matchedBankNames: [
+      'АЛТАЙКАПИТАЛБАНК',
     ],
   },
   {
