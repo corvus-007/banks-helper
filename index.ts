@@ -12,13 +12,13 @@ const findBank = (bankName: string): IBankLogoItem => {
 const getBankLogoFileName = (bankName: string) => {
   const bankLogoItem = findBank(bankName);
 
-  return bankLogoItem?.fileName ?? UNKNOWN_BANK_FILE_NAME;
+  return bankLogoItem?.fileName || UNKNOWN_BANK_FILE_NAME;
 };
 
 const getBankLogoName = (bankName: string): string => {
   const bankLogoItem = findBank(bankName);
 
-  return bankLogoItem?.humanName ?? bankName;
+  return bankLogoItem?.humanName || bankName;
 };
 
 export {
