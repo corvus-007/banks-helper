@@ -4,9 +4,15 @@
   "description": "Helps to work with banks names",
   "main": "index.ts",
   "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Denis Vasilev",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
 }
