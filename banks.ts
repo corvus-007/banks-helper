@@ -199,21 +199,21 @@ export const banks: IBankLogoItem[] = [
     fileName: 'round.svg',
     humanName: 'банк Раунд',
     matchedBankNames: [
-      'БАНК РАУНД'
+      'БАНК РАУНД',
     ],
   },
   {
     fileName: 'bankrmp.png',
     humanName: 'Банк РМП',
     matchedBankNames: [
-      'БАНК РМП'
+      'БАНК РМП',
     ],
   },
   {
     fileName: '',
     humanName: 'Банк РСИ',
     matchedBankNames: [
-      '"Bank RSI" Ltd.'
+      '"Bank RSI" Ltd.',
     ],
   },
   {
@@ -221,7 +221,55 @@ export const banks: IBankLogoItem[] = [
     humanName: 'БАНК СГБ',
     matchedBankNames: [
       'Joint-Stock Company "SEVERGAZBANK"',
-      '"BANK SGB" JSC'
+      '"BANK SGB" JSC',
+    ],
+  },
+  {
+    fileName: 'finam.svg',
+    humanName: 'Банк ФИНАМ',
+    matchedBankNames: [
+      'Joint Stock Company FINAM Investment Bank',
+      'JSC FINAM Bank',
+    ],
+  },
+  {
+    fileName: 'chbrr.svg',
+    humanName: 'Банк ЧБРР',
+    matchedBankNames: [
+      'Joint-stock company "Chernomorskiy bank of development and reconstruction"',
+      'JSC "Bank CHBDR"',
+    ],
+  },
+  {
+    fileName: 'bbr.svg',
+    humanName: 'ББР Банк',
+    matchedBankNames: [
+      'Joint Stock Company BBR Bank',
+      'BBR Bank',
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'Белгородсоцбанк',
+    matchedBankNames: [
+      'Joint-stock Company Universal commercial bank of social development & reconstruction "BELGORODSOCBANK"',
+      'JSC "Belgorodsocbank"',
+    ],
+  },
+  {
+    fileName: 'bstbank.png',
+    humanName: 'БСТ-БАНК',
+    matchedBankNames: [
+      'Бизнес-Сервис-Траст',
+      '"Joint-stock company "Business-Service-Trust"',
+      '"BST-BANK" - JSC',
+    ],
+  },
+  {
+    fileName: 'bcs.svg',
+    humanName: 'БКС Банк',
+    matchedBankNames: [
+      '"BCS Bank" AO',
     ],
   },
   {
@@ -237,6 +285,8 @@ export const banks: IBankLogoItem[] = [
     humanName: 'Бланк банк',
     matchedBankNames: [
       'БЛАНК БАНК',
+      'Blanc bank Limited Liability Company',
+      'Blanc bank LLC',
     ],
   },
   {
@@ -557,14 +607,14 @@ export const banks: IBankLogoItem[] = [
     fileName: 'domrfbank.svg',
     humanName: 'Банк ДОМ.РФ',
     matchedBankNames: [
-      'БАНК ДОМ.РФ'
+      'БАНК ДОМ.РФ',
     ],
   },
   {
     fileName: 'bgfbank.svg',
     humanName: 'Банк БЖФ',
     matchedBankNames: [
-      'БАНК ЖИЛИЩНОГО ФИНАНСИРОВАНИЯ'
+      'БАНК ЖИЛИЩНОГО ФИНАНСИРОВАНИЯ',
     ],
   },
   {
