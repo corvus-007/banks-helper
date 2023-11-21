@@ -184,13 +184,6 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'bank_dom_rf.png',
-    humanName: 'Банк ДОМ.РФ',
-    matchedBankNames: [
-      'БАНК ДОМ.РФ',
-    ],
-  },
-  {
     fileName: 'bank_orenburg.png',
     humanName: 'БАНК ОРЕНБУРГ',
     matchedBankNames: [],
@@ -714,7 +707,7 @@ export const banks: IBankLogoItem[] = [
     fileName: 'domrfbank.svg',
     humanName: 'Банк ДОМ.РФ',
     matchedBankNames: [
-      'БАНК ДОМ.РФ',
+      'Joint Stock Company "Bank DOM.RF"',
     ],
   },
   {
