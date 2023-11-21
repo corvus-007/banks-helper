@@ -164,7 +164,7 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'almazehrgiehnbank.svg',
+    fileName: 'capitalbank.svg',
     humanName: 'Алтайкапиталбанк',
     matchedBankNames: [
       'АЛТАЙКАПИТАЛБАНК',
@@ -287,6 +287,113 @@ export const banks: IBankLogoItem[] = [
       'БЛАНК БАНК',
       'Blanc bank Limited Liability Company',
       'Blanc bank LLC',
+    ],
+  },
+  {
+    fileName: 'bm-bank.svg',
+    humanName: 'БМ-Банк',
+    matchedBankNames: [
+      'BM-Bank Joint Stock Company',
+      'BM-Bank JSC',
+    ],
+  },
+  {
+    fileName: 'bmwbank.svg',
+    humanName: 'БМВ Банк',
+    matchedBankNames: [
+      'Limited Liability Company "BMW Bank"',
+      'OOO "BMW Bank"',
+    ],
+  },
+  {
+    fileName: 'bnpparibasbank.svg',
+    humanName: 'БНП ПАРИБА Банк',
+    matchedBankNames: [
+      '"BNP PARIBAS Bank" Joint stock company',
+      '"BNP PARIBAS BANK" JSC."',
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'Братский АНКБ',
+    matchedBankNames: [
+      'Bratsky Narodny Bank JSC',
+    ],
+  },
+  {
+    fileName: 'bystrobank.svg',
+    humanName: 'БыстроБанк',
+    matchedBankNames: [
+      'Public Joint-Stock Company "BystroBank" PJSC "BystroBank"',
+    ],
+  },
+  {
+    fileName: 'boc.svg',
+    humanName: 'БЭНК ОФ ЧАЙНА',
+    matchedBankNames: [
+      'Joint-Stock Commercial Bank "BANK OF CHINA (RUSSIA)"',
+      'BANK OF CHINA (RUSSIA)',
+    ],
+  },
+  {
+    fileName: 'wb-bank.svg',
+    humanName: 'Вайлдберриз Банк',
+    matchedBankNames: [
+      'WILDBERRIES Bank Company Limited',
+      'WILDBERRIES BANK Co.Ltd.',
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'ВАКОБАНК',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'vlb100.jpg',
+    humanName: 'Великие Луки банк',
+    matchedBankNames: [
+      'Joint Stock Company "Velikie Luki bank"',
+      'JSC "Velikie Luki bank"',
+    ],
+  },
+  {
+    fileName: 'venets-bank.svg',
+    humanName: 'Банк "Венец"',
+    matchedBankNames: [
+      'Bank VENETS',
+    ],
+  },
+  {
+    fileName: 'vikingbank.svg',
+    humanName: 'КАБ "Викинг"',
+    matchedBankNames: [
+      'Commercial Bank "Viking" Stock Company',
+      'Vikingbank',
+      'Commerzbank "Wiking" AG',
+      'Wikingbank',
+    ],
+  },
+  {
+    fileName: 'vitabank.svg',
+    humanName: 'Витабанк',
+    matchedBankNames: [
+      'JSC "Vitabank"',
+    ],
+  },
+  {
+    fileName: 'vlbb.svg',
+    humanName: 'ВЛАДБИЗНЕСБАНК',
+    matchedBankNames: [
+      'Joint-Stock Company Vladbusinessbank',
+      'JSC Vladbusinessbank',
+    ],
+  },
+  {
+    fileName: 'vfbank.svg',
+    humanName: 'ВНЕШФИНБАНК',
+    matchedBankNames: [
+      '"VNESHFINBANK" limited Company',
+      '"VNESHFINBANK" LTD',
     ],
   },
   {
@@ -599,7 +706,7 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: '131.svg',
+    fileName: '',
     humanName: 'БАНК БЕРЕЙТ',
     matchedBankNames: [],
   },
@@ -732,7 +839,7 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'vologzhanin_bank.png',
+    fileName: 'bankvl.svg',
     humanName: 'Банк "Вологжанин"',
     matchedBankNames: [
       'ВОЛОГЖАНИН',
