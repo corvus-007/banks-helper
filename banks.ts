@@ -437,13 +437,39 @@ export const banks: IBankLogoItem[] = [
     matchedBankNames: [],
   },
   {
-    fileName: 'gazprombank.png',
-    humanName: 'Газпромбанк',
+    fileName: 'gazprombank.svg',
+    humanName: 'Банк ГПБ',
     matchedBankNames: [
       'Gazprom',
       'GAZPROMBANK',
       'GAZPROMBANK OJSC',
       'GAZPROMBANK (JOINT STOCK COMPANY)',
+      '"Gazprombank" (Joint Stock Company)',
+      'Bank GPB (JSC)',
+    ],
+  },
+  {
+    fileName: 'gaztransbank.svg',
+    humanName: 'КБ "ГТ банк"',
+    matchedBankNames: [
+      'Commercial Bank "Gaztransbank"(Limited Liability Company)',
+      'LLC CB "GT bank"',
+    ],
+  },
+  {
+    fileName: 'gebank.svg',
+    humanName: 'Газэнергобанк',
+    matchedBankNames: [
+      'The Kaluga Gas and Energy Joint-Stock Bank "Gazenergobank" (Joint-Stock Company)',
+      'Gazenergobank',
+    ],
+  },
+  {
+    fileName: 'gibank.svg',
+    humanName: 'КБ "Гарант-Инвест"',
+    matchedBankNames: [
+      'GARANT-INVEST BANK Joint Stock',
+      'GARANT-INVEST BANK',
     ],
   },
   {
@@ -823,15 +849,6 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'vbrr_bank.png',
-    humanName: 'Банк "ВБРР"',
-    matchedBankNames: [
-      'JOINT-STOCK COMPANY RUSSIAN REGIONAL DEVELOPMENT BANK (RRDB)',
-      'RUSSIAN REGIONAL DEVELOPMENT BANK',
-      'ВСЕРОССИЙСКИЙ БАНК РАЗВИТИЯ РЕГИОНОВ',
-    ],
-  },
-  {
     fileName: 'bankvl.svg',
     humanName: 'Банк "Вологжанин"',
     matchedBankNames: [
@@ -839,7 +856,17 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'vtb_bank.png',
+    fileName: 'vbrr.svg',
+    humanName: 'Банк "ВБРР"',
+    matchedBankNames: [
+      'JOINT-STOCK COMPANY RUSSIAN REGIONAL DEVELOPMENT BANK (RRDB)',
+      'RUSSIAN REGIONAL DEVELOPMENT BANK',
+      'ВСЕРОССИЙСКИЙ БАНК РАЗВИТИЯ РЕГИОНОВ',
+      'Joint Stock Company "Russian regional development bank" Bank "RRDB" (JSC)',
+    ],
+  },
+  {
+    fileName: 'vtb.svg',
     humanName: 'Банк ВТБ',
     matchedBankNames: [
       'VTB',
@@ -847,6 +874,32 @@ export const banks: IBankLogoItem[] = [
       'VTB BANK OJSC',
       'ВТБ',
       'CREDIT BANK OF MOSCOW',
+      'VTB Bank (Public Joint-Stock Company)',
+      'VTB Bank (PJSC)',
+    ],
+  },
+  {
+    fileName: 'vuzbank.svg',
+    humanName: 'ВУЗ-банк',
+    matchedBankNames: [
+      'Joint Stock Company "VUZ Bank"',
+      '"VUZ Bank" JSC',
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'Банк "Вятич"',
+    matchedBankNames: [
+      'Public Joint Stock Company Commercial Bank "Vyatich"',
+      '"Vyatich Bank" (PJSC)',
+    ],
+  },
+  {
+    fileName: 'svoi.svg',
+    humanName: 'Свой Банк',
+    matchedBankNames: [
+      'Joint Stock Company "Svoi Bank"',
+      'Svoi Bank',
     ],
   },
   {
