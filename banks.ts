@@ -473,10 +473,51 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'genbank.png',
+    fileName: 'genbank.svg',
     humanName: 'ГЕНБАНК',
     matchedBankNames: [
       'GENBANK',
+      'Joint stock company "GENBANK"',
+      'JSC "GENBANK"',
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'Гефест',
+    matchedBankNames: [
+      '"GEFEST" Commercial Bank Company limited by shares',
+      '"GEFEST" Bank Ltd',
+    ],
+  },
+  {
+    fileName: 'bankglobus.svg',
+    humanName: 'Банк Глобус',
+    matchedBankNames: [
+      '"Bank Globus" (Joint Stock Company)',
+      'Bank Globus JSC',
+    ],
+  },
+  {
+    fileName: 'goldmansachsbank.svg',
+    humanName: 'Голдман Сакс Банк',
+    matchedBankNames: [
+      'OOO Goldman Sachs Bank',
+    ],
+  },
+  {
+    fileName: 'gorbank.svg',
+    humanName: 'ГОРБАНК',
+    matchedBankNames: [
+      'PETERSBURG"S CITY BANK, INCORPORATED',
+      'PETERSBURG"S CITY BANK, inc.',
+    ],
+  },
+  {
+    fileName: 'gutabank.svg',
+    humanName: 'ГУТА-БАНК',
+    matchedBankNames: [
+      'Joint stock company "GUTA-BANK"',
+      'JSC "GUTA-BANK"',
     ],
   },
   {
