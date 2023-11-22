@@ -556,6 +556,41 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'jtbank.svg',
+    humanName: 'Джей энд Ти Банк',
+    matchedBankNames: [
+      'J&T Bank, a.o.',
+    ],
+  },
+  {
+    fileName: 'db.svg',
+    humanName: 'Дойче Банк',
+    matchedBankNames: [
+      'Limited Liability Company "Deutsche Bank" Deutsche Bank Ltd',
+    ],
+  },
+  {
+    fileName: 'bankdolinsk.svg',
+    humanName: 'Долинск',
+    matchedBankNames: [
+      'Commercial bank "Dolinsk" (joint stock company)',
+      'CB "Dolinsk" (JSC)',
+    ],
+  },
+  {
+    fileName: 'doncombank.png',
+    humanName: 'Донкомбанк',
+    matchedBankNames: [
+      'PUBLIC JOINT-STOCK COMPANY "DONSKOI COMMERCIAL BANK"',
+      'PJSC "DONCOMBANK"',
+    ],
+  },
+  {
+    fileName: 'donteksbank.svg',
+    humanName: 'Дон-Тексбанк',
+    matchedBankNames: [],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
