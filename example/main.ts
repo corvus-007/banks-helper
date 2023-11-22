@@ -6,13 +6,14 @@ const bankTemplate: HTMLTemplateElement = document.querySelector('#bank');
 const createBankLogoElement = ({ fileName, humanName, matchedBankNames }: IBankLogoItem) => {
   const itemElement = bankTemplate.content.querySelector('.bank').cloneNode(true) as Element;
   const imageElement: HTMLImageElement = itemElement.querySelector('.bank__logo');
-  imageElement.src = 'logos/' + fileName;
+  imageElement.src ='logos/' + (fileName ? fileName : 'unknown.svg');
   imageElement.alt = fileName;
 
   if (!fileName) {
     itemElement.classList.add('bank--logo-empty');
   }
 
+  itemElement.querySelector('.bank__file-name').textContent = fileName;
   itemElement.querySelector('.bank__name').textContent = humanName;
   itemElement.querySelector('.bank__alt-names').textContent = matchedBankNames.join(', ');
 

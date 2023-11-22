@@ -59,6 +59,11 @@ body {
   aspect-ratio: 1;
 }
 
+.bank__file-name {
+  font-size: smaller;
+  min-height: 1em;
+}
+
 .bank__name {
   font-weight: bold;
 }
