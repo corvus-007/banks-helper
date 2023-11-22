@@ -390,22 +390,6 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'dalnevostochnyj_bank.png',
-    humanName: 'Дальневосточный банк',
-    matchedBankNames: [
-      'DALNEVOSTOCHNIY BANK',
-      'ДАЛЬНЕВОСТОЧНЫЙ БАНК',
-    ],
-  },
-  {
-    fileName: 'izhcombank.png',
-    humanName: 'Датабанк',
-    matchedBankNames: [
-      'IZHCOMBANK',
-      'ДАТАБАНК',
-    ],
-  },
-  {
     fileName: 'driveclickbank.png',
     humanName: 'Сетелем Банк',
     matchedBankNames: [
@@ -518,6 +502,57 @@ export const banks: IBankLogoItem[] = [
     matchedBankNames: [
       'Joint stock company "GUTA-BANK"',
       'JSC "GUTA-BANK"',
+    ],
+  },
+  {
+    fileName: 'dalenabank.svg',
+    humanName: 'ДАЛЕНА',
+    matchedBankNames: [
+      'Limited Liability Company Moscow Investment Bank "DALENA"',
+      'DALENA BANK, Ltd',
+    ],
+  },
+  {
+    fileName: 'dvbank.svg',
+    humanName: 'Дальневосточный банк',
+    matchedBankNames: [
+      'DALNEVOSTOCHNIY BANK',
+      'ДАЛЬНЕВОСТОЧНЫЙ БАНК',
+      'Far Eastern Bank',
+    ],
+  },
+  {
+    fileName: 'databank.svg',
+    humanName: 'Датабанк',
+    matchedBankNames: [
+      'IZHCOMBANK',
+      'ДАТАБАНК',
+      'Joint Stock Company "Databank"',
+      'JSC "Databank"',
+    ],
+  },
+  {
+    fileName: 'denizbank.svg',
+    humanName: 'Денизбанк Москва',
+    matchedBankNames: [
+      'Joint-Stock Company "Denizbank Moscow"',
+      'JSC "Denizbank Moscow"',
+    ],
+  },
+  {
+    fileName: 'derzhava.svg',
+    humanName: 'Держава',
+    matchedBankNames: [
+      'Public Joint-Stock Commercial Bank "DERZHAVA"',
+      'PJSCB "DERZHAVA"',
+    ],
+  },
+  {
+    fileName: 'jpmorgan.svg',
+    humanName: 'Дж.П. Морган Банк Интернешнл',
+    matchedBankNames: [
+      'Commercial Bank "J.P. Morgan Bank International" (Limited Liability Company)',
+      'CB "J.P. Morgan Bank International" (LLC)',
     ],
   },
   {
