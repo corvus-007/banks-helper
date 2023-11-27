@@ -409,13 +409,6 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'ekaterinburg_bank.svg',
-    humanName: 'Банк "Екатеринбург"',
-    matchedBankNames: [
-      'ЕКАТЕРИНБУРГ',
-    ],
-  },
-  {
     fileName: 'fora_bank.png',
     humanName: 'ФОРА-БАНК',
     matchedBankNames: [],
@@ -589,6 +582,67 @@ export const banks: IBankLogoItem[] = [
     fileName: 'donteksbank.svg',
     humanName: 'Дон-Тексбанк',
     matchedBankNames: [],
+  },
+  {
+    fileName: 'bankd.svg',
+    humanName: 'Дружба',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'eatpbank.svg',
+    humanName: 'ЕАТПБанк',
+    matchedBankNames: [
+      'Joint Stock Company Euro-Asian Trading-Industrial Bank',
+      'JSC EATIBank',
+    ],
+  },
+  {
+    fileName: 'euroalliance.svg',
+    humanName: 'ЕВРОАЛЬЯНС',
+    matchedBankNames: [
+      'Joint-stock company commercial investment bank "EUROALLIANCE"',
+      'JSC CIB "EUROALLIANCE"',
+    ],
+  },
+  {
+    fileName: 'evrofinance.svg',
+    humanName: 'ЕВРОФИНАНС МОСНАРБАНК',
+    matchedBankNames: [
+      'Evrofinance Mosnarbank',
+    ],
+  },
+  {
+    fileName: 'emb.svg',
+    humanName: 'Банк "Екатеринбург"',
+    matchedBankNames: [
+      'ЕКАТЕРИНБУРГ',
+      'Ekaterinburg National City Bank',
+      'Bank Ekaterinburg',
+    ],
+  },
+  {
+    fileName: 'united.svg',
+    humanName: 'Енисейский объединенный банк',
+    matchedBankNames: [
+      'Joint-stock Investment Commercial Bank "ENISEISK UNITED BANK"',
+      'JSICB "ENISEISK UNITED BANK"',
+    ],
+  },
+  {
+    fileName: 'bankermak.svg',
+    humanName: 'БАНК "Ермак"',
+    matchedBankNames: [
+      'Joint-Stock Company Nizhnevartovsk City Bank "Ermak"',
+      'JSC BANK "Ermak"',
+    ],
+  },
+  {
+    fileName: 'zhivagobank.svg',
+    humanName: 'ЖИВАГО БАНК',
+    matchedBankNames: [
+      '"ZHIVAGO BANK" (LIMITED LIABILITY COMPANY)',
+      '"ZHIVAGO BANK" (LLC)',
+    ],
   },
   {
     fileName: 'hlynov_bank.png',
