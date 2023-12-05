@@ -645,6 +645,81 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'zarech.svg',
+    humanName: 'Банк Заречье',
+    matchedBankNames: [
+      'Bank Zarechye (Joint Stock Company)',
+      'Bank Zarechye (JSC)',
+    ],
+  },
+  {
+    fileName: 'zemcombank.svg',
+    humanName: 'ЗЕМКОМБАНК',
+    matchedBankNames: [
+      'LAND COMMERCIAL BANK LIMITED LIABILITY COMPANY',
+      'LANDCOMBANK LLC',
+    ],
+  },
+  {
+    fileName: 'zemsky.svg',
+    humanName: 'Земский банк',
+    matchedBankNames: [
+      'Limited Liability Company "Zemsky bank"',
+      'LLC "Zemsky bank"',
+    ],
+  },
+  {
+    fileName: 'ziraatbank.svg',
+    humanName: 'ЗИРААТ БАНК (МОСКВА)',
+    matchedBankNames: [
+      'ZIRAAT BANK',
+      'ZIRAAT BANKASI',
+      'TURKISH ZIRAAT BANK BOSNIA D.D.',
+      '"Ziraat Bank (Moscow)" (Joint Stock Company)',
+      'ZIRAAT BANK (MOSCOW)" (JSC)',
+    ],
+  },
+  {
+    fileName: 'icbru.svg',
+    humanName: 'ИК Банк',
+    matchedBankNames: [
+      'Joint Stock Company "Investment Cooperative Bank"',
+      'JSC "IC Bank"',
+    ],
+  },
+  {
+    fileName: 'in-bank.svg',
+    humanName: 'Инбанк',
+    matchedBankNames: [
+      'Inbank, Ltd',
+    ],
+  },
+  {
+    fileName: 'itb.svg',
+    humanName: 'ИНВЕСТТОРГБАНК',
+    matchedBankNames: [
+      'INVESTTORGBANK',
+      'ITB',
+    ],
+  },
+  {
+    fileName: 'ingwb.svg',
+    humanName: 'ИНГ БАНК (ЕВРАЗИЯ)',
+    matchedBankNames: [
+      'ING BANK (EURASIA) JOINT STOCK COMPANY',
+      'ING BANK (EURASIA) JSC',
+    ],
+  },
+  {
+    fileName: 'ipb.svg',
+    humanName: 'Банк ИПБ',
+    matchedBankNames: [
+      'ИНТЕРПРОГРЕССБАНК',
+      '"INTERPROGRESSBANK" (Joint-stock company)',
+      'Bank IPB (JSC)',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
@@ -1362,15 +1437,6 @@ export const banks: IBankLogoItem[] = [
       'XALQ BANK',
       'OJSC XALQ BANK',
       'OPEN JOINT-STOCK COMPANY XALQ BANK',
-    ],
-  },
-  {
-    fileName: 'ziraatbank.svg',
-    humanName: 'Ziraat Bank',
-    matchedBankNames: [
-      'ZIRAAT BANK',
-      'ZIRAAT BANKASI',
-      'TURKISH ZIRAAT BANK BOSNIA D.D.',
     ],
   },
 ];
