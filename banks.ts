@@ -720,6 +720,38 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'isbank.svg',
+    humanName: 'ИС Банк',
+    matchedBankNames: [
+      'Joint-Stock Company Commercial Bank "Industrial Savings Bank"',
+      'Industrial Savings Bank',
+    ],
+  },
+  {
+    fileName: 'itbank.svg',
+    humanName: 'ИТ Банк',
+    matchedBankNames: [
+      'Joint stock company "IT Bank"',
+      'JSC "IT Bank',
+    ],
+  },
+  {
+    fileName: 'iturupbank.svg',
+    humanName: 'Банк "ИТУРУП"',
+    matchedBankNames: [
+      'BANK "ITURUP" Limited liability company',
+      'BANK "ITURUP" (LLC)',
+    ],
+  },
+  {
+    fileName: 'ishbank.svg',
+    humanName: 'ИШБАНК',
+    matchedBankNames: [
+      'Joint Stock Company ISBANK',
+      'ISBANK',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
