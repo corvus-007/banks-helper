@@ -752,6 +752,54 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'olabank.svg',
+    humanName: 'Банк "Йошкар-Ола"',
+    matchedBankNames: [
+      'Bank "Yoshkar-Ola"',
+    ],
+  },
+  {
+    fileName: 'bankkaluga.svg',
+    humanName: 'Калуга',
+    matchedBankNames: [
+      'BANK "KALUGA"',
+    ],
+  },
+  {
+    fileName: 'kamkombank.svg',
+    humanName: 'Камкомбанк',
+    matchedBankNames: [
+      'Limited liability company Kama commercial bank',
+      'Kamcombank LLC',
+    ],
+  },
+  {
+    fileName: 'capital-bank.svg',
+    humanName: 'Капитал',
+    matchedBankNames: [
+      'Joint-Stock Bank "Capital"',
+      'Bank "Capital"',
+    ],
+  },
+  {
+    fileName: 'bank45.svg',
+    humanName: 'Кетовский',
+    matchedBankNames: [
+      'Ketovsky commercial bank',
+      'Ketovsky Bank',
+    ],
+  },
+  {
+    fileName: 'qiwi.svg',
+    humanName: 'КИВИ Банк',
+    matchedBankNames: [
+      'QIWI BANK (JSC)',
+      'КИВИ БАНК',
+      'QIWI Bank (joint-stock company)',
+      'QIWI Bank (JSC)',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
@@ -905,14 +953,6 @@ export const banks: IBankLogoItem[] = [
       'OJSC PROMSVYAZBANK',
       'PUBLIC JOINT STOCK COMPANY PROMSVYAZBANK',
       'ПРОМСВЯЗЬБАНК',
-    ],
-  },
-  {
-    fileName: 'qiwi_bank.png',
-    humanName: 'КИВИ Банк',
-    matchedBankNames: [
-      'QIWI BANK (JSC)',
-      'КИВИ БАНК',
     ],
   },
   {
