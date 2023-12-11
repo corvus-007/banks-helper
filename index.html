@@ -12,10 +12,12 @@
 
     <template id="bank">
       <li class="bank">
-        <img src="" alt="" class="bank__logo">
+        <img class="bank__logo" src="" alt="" loading="lazy">
         <samp class="bank__file-name"></samp>
-        <span class="bank__name"></span>
-        <p class="bank__alt-names"></p>
+        <details>
+          <summary class="bank__name"></summary>
+          <p class="bank__alt-names"></p>
+        </details>
       </li>
     </template>
 

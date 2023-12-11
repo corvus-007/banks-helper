@@ -65,6 +65,7 @@ body {
 }
 
 .bank__name {
+  display: inline-block;
   font-weight: bold;
 }
 
