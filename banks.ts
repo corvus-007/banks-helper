@@ -800,6 +800,34 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'akbkeb.png',
+    humanName: 'Классик Эконом Банк',
+    matchedBankNames: [
+      'AO "Klassik Econom Bank"',
+    ],
+  },
+  {
+    fileName: 'commerzbank.svg',
+    humanName: 'КОММЕРЦБАНК (ЕВРАЗИЯ)',
+    matchedBankNames: [
+      '"COMMERZBANK (EURASIJA)" Joint Stock Company',
+      '"COMMERZBANK (EURASIJA)" AO',
+    ],
+  },
+  {
+    fileName: 'cibl.svg',
+    humanName: 'Коммерческий Индо Банк',
+    matchedBankNames: [
+      '"Commercial Indo Bank" Limited liability company',
+      '"Commercial Indo Bank" LLC',
+    ],
+  },
+  {
+    fileName: 'bankkontinental.svg',
+    humanName: 'Континенталь',
+    matchedBankNames: [],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
@@ -819,13 +847,6 @@ export const banks: IBankLogoItem[] = [
     fileName: 'interprogressbank.png',
     humanName: 'ИНТЕРПРОГРЕССБАНК',
     matchedBankNames: [],
-  },
-  {
-    fileName: 'klassikehkonombank.jpg',
-    humanName: 'Классик Эконом Банк',
-    matchedBankNames: [
-      'КЛАССИК ЭКОНОМ БАНК',
-    ],
   },
   {
     fileName: 'kredit_evropa_bank.png',
