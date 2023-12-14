@@ -828,6 +828,37 @@ export const banks: IBankLogoItem[] = [
     matchedBankNames: [],
   },
   {
+    fileName: 'bcosm.svg',
+    humanName: 'КОСМОС',
+    matchedBankNames: [
+      'Bank "COSMOS"',
+    ],
+  },
+  {
+    fileName: 'selkombank.svg',
+    humanName: 'Костромаселькомбанк',
+    matchedBankNames: [
+      'Limited Liability company Kostromaselkombank',
+      'Kostromaselkombank',
+    ],
+  },
+  {
+    fileName: 'koshelev-bank.svg',
+    humanName: 'КОШЕЛЕВ-БАНК',
+    matchedBankNames: [
+      'Joint-Stock Company KOSHELEV-BANK',
+      'JSC KOSHELEV-BANK',
+    ],
+  },
+  {
+    fileName: 'ca-cib.svg',
+    humanName: 'Креди Агриколь КИБ',
+    matchedBankNames: [
+      '"Credit Agricole Corporate and Investment Bank" Joint Stock Company',
+      'Credit Agricole CIB AO',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
