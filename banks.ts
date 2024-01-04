@@ -859,6 +859,38 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'crediteurope.svg',
+    humanName: 'Кредит Европа Банк (Россия)',
+    matchedBankNames: [
+      'CREDIT EUROPE BANK LTD',
+      '"Credit Europe Bank (Russia) Ltd.',
+    ],
+  },
+  {
+    fileName: 'creditural.svg',
+    humanName: 'Кредит Урал Банк',
+    matchedBankNames: [
+      'КРЕДИТ УРАЛ БАНК',
+      '"Credit Ural Bank" Joint Stock Company',
+      '"CUB" JSC',
+    ],
+  },
+  {
+    fileName: 'kremlinbank.svg',
+    humanName: 'Банк Кремлевский',
+    matchedBankNames: [
+      '"Commercial Bank KREMLYOVSKIY" LTD.',
+      '"BANK KREMLYOVSKIY" LTD.',
+    ],
+  },
+  {
+    fileName: 'crocusbank.svg',
+    humanName: 'Крокус-Банк',
+    matchedBankNames: [
+      '"Crocus-Bank" Ltd.',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
@@ -878,20 +910,6 @@ export const banks: IBankLogoItem[] = [
     fileName: 'interprogressbank.png',
     humanName: 'ИНТЕРПРОГРЕССБАНК',
     matchedBankNames: [],
-  },
-  {
-    fileName: 'kredit_evropa_bank.png',
-    humanName: 'Кредит Европа Банк (Россия)',
-    matchedBankNames: [
-      'CREDIT EUROPE BANK LTD',
-    ],
-  },
-  {
-    fileName: 'kredit_ural_bank.svg',
-    humanName: 'Кредит Урал Банк',
-    matchedBankNames: [
-      'КРЕДИТ УРАЛ БАНК',
-    ],
   },
   {
     fileName: 'kuban_kredit_bank.png',
