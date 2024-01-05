@@ -916,6 +916,29 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'kuzbasshimbank.svg',
+    humanName: 'Кузбассхимбанк',
+    matchedBankNames: [
+      'Joint-stock commercial bank "Kuzbasschimbank" (public joint-stock company)',
+    ],
+  },
+  {
+    fileName: 'kbb.svg',
+    humanName: 'Кузнецкбизнесбанк',
+    matchedBankNames: [
+      'Kuznetskbusinessbank (joint-stock company)',
+      'Kuznetskbusinessbank (JSC)',
+    ],
+  },
+  {
+    fileName: 'kuzbank.svg',
+    humanName: 'Кузнецкий',
+    matchedBankNames: [
+      'Kuznetsky Bank Public joint stock company',
+      'Kuznetsky Bank Public JSC',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
