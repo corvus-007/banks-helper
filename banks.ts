@@ -891,6 +891,31 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'krona-bank.svg',
+    humanName: 'Крона-Банк',
+    matchedBankNames: [
+      'Krona-Bank (Limited Liability Company)',
+      'Krona-Bank, Ltd',
+    ],
+  },
+  {
+    fileName: 'kk.svg',
+    humanName: 'Кубань Кредит',
+    matchedBankNames: [
+      'КУБАНЬ КРЕДИТ',
+      'Commercial Bank "Kuban Credit" Limited Liability Company',
+      'CB "Kuban Credit" Ltd"',
+    ],
+  },
+  {
+    fileName: 'bktb.svg',
+    humanName: 'Кубаньторгбанк',
+    matchedBankNames: [
+      'Joint Stock Company Kuban Trade Bank',
+      'JSC Kuban Trade Bank',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
@@ -910,13 +935,6 @@ export const banks: IBankLogoItem[] = [
     fileName: 'interprogressbank.png',
     humanName: 'ИНТЕРПРОГРЕССБАНК',
     matchedBankNames: [],
-  },
-  {
-    fileName: 'kuban_kredit_bank.png',
-    humanName: 'Кубань Кредит',
-    matchedBankNames: [
-      'КУБАНЬ КРЕДИТ',
-    ],
   },
   {
     fileName: 'levoberezhnyj_bank.png',
