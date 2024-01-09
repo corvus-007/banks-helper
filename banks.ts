@@ -782,7 +782,7 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'bank45.svg',
+    fileName: 'bank-45.svg',
     humanName: 'Кетовский',
     matchedBankNames: [
       'Ketovsky commercial bank',
@@ -939,6 +939,104 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'bank45.svg',
+    humanName: 'БАНК "КУРГАН"',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'kebrus.svg',
+    humanName: 'КЭБ ЭйчЭнБи Банк',
+    matchedBankNames: [
+      'Korea Exchange Bank RUS LLC',
+      'KEB HNB RUS LLC',
+    ],
+  },
+  {
+    fileName: 'lanta.svg',
+    humanName: 'Ланта-Банк',
+    matchedBankNames: [
+      'Joint stock Company commercial bank "Lanta-Bank"',
+    ],
+  },
+  {
+    fileName: 'nskbl.svg',
+    humanName: 'Банк "Левобережный"',
+    matchedBankNames: [
+      'ЛЕВОБЕРЕЖНЫЙ',
+      'Novosibirsk Social Commercial Bank "Levoberezhny" (public joint-stock company)',
+    ],
+  },
+  {
+    fileName: 'lockobank.svg',
+    humanName: 'ЛОКО-Банк',
+    matchedBankNames: [
+      'Joint stock company "LOCKO-Bank"',
+      'LOCKO-Bank',
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'Максима',
+    matchedBankNames: [
+      '"Maxima Bank" Limited',
+      '"Maxima Bank" Ltd.',
+    ],
+  },
+  {
+    fileName: 'ibam.svg',
+    humanName: 'Банк "МБА-МОСКВА',
+    matchedBankNames: [
+      '"The Bank " IBA-MOSCOW" Limited liability company',
+      '"The Bank "IBA-MOSCOW" LLC',
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'МВС Банк',
+    matchedBankNames: [
+      'Commercial bank "MVS Bank" Ltd.',
+    ],
+  },
+  {
+    fileName: 'mfk-bank.svg',
+    humanName: 'МЕЖДУНАРОДНЫЙ ФИНАНСОВЫЙ КЛУБ',
+    matchedBankNames: [
+      'JOINT STOCK COMPANY JOINT STOCK COMMERCIAL BANK "INTERNATIONAL FINANCIAL CLUB"',
+      'JSC JSCB "INTERNATIONAL FINANCIAL CLUB"',
+    ],
+  },
+  {
+    fileName: 'metallinvestbank.svg',
+    humanName: 'Металлинвестбанк',
+    matchedBankNames: [
+      'PUBLIC JOINT STOCK COMPANY STOCK COMMERCIAL BANK "METALLURGICAL INVESTMENT BANK"',
+      'PJSC SCB "Metallinvestbank"',
+    ],
+  },
+  {
+    fileName: 'metcom.svg',
+    humanName: 'МЕТКОМБАНК',
+    matchedBankNames: [
+      'Public Joint-Stock Company METKOMBANK',
+      'PJSC METKOMBANK',
+    ],
+  },
+  {
+    fileName: 'mizuhogroup.svg',
+    humanName: 'Мидзухо Банк (Москва)',
+    matchedBankNames: [
+      'AO Mizuho Bank (Moscow)',
+    ],
+  },
+  {
+    fileName: 'mbbru.png',
+    humanName: 'МБ Банк',
+    matchedBankNames: [
+      'Joint Stock Company "Mir Business Bank"',
+      'JSC "MB Bank"',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
@@ -958,13 +1056,6 @@ export const banks: IBankLogoItem[] = [
     fileName: 'interprogressbank.png',
     humanName: 'ИНТЕРПРОГРЕССБАНК',
     matchedBankNames: [],
-  },
-  {
-    fileName: 'levoberezhnyj_bank.png',
-    humanName: 'Банк "Левобережный"',
-    matchedBankNames: [
-      'ЛЕВОБЕРЕЖНЫЙ',
-    ],
   },
   {
     fileName: 'minbank.png',
