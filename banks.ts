@@ -1037,6 +1037,120 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'modulbank.svg',
+    humanName: 'Модульбанк',
+    matchedBankNames: [
+      'Joint stock company Commercial Bank "Modulbank"',
+    ],
+  },
+  {
+    fileName: 'maritimebank.svg',
+    humanName: 'МОРСКОЙ БАНК',
+    matchedBankNames: [
+      'MARITIME JOINT-STOCK BANK (Joint-Stock Company)',
+      'MARITIME BANK',
+    ],
+  },
+  {
+    fileName: 'mcbank.svg',
+    humanName: 'МОСКВА-СИТИ',
+    matchedBankNames: [
+      '"MOSCOW-CITY" BANK',
+    ],
+  },
+  {
+    fileName: 'moscombank.png',
+    humanName: 'МОСКОМБАНК',
+    matchedBankNames: [
+      'Joint Stock Company "Commercial Bank of Moscow"',
+      'JSC MOSCOMBANK',
+    ],
+  },
+  {
+    fileName: 'mkb.png',
+    humanName: 'МОСКОВСКИЙ КРЕДИТНЫЙ БАНК',
+    matchedBankNames: [
+      'Московский Кредитный Банк',
+    ],
+  },
+  {
+    fileName: 'mosoblbank.svg',
+    humanName: 'МОСОБЛБАНК',
+    matchedBankNames: [
+      'Joint stock company MOSCOVSKIY OBLASTNOI BANK',
+      'JSC MOSOBLBANK',
+    ],
+  },
+  {
+    fileName: 'moskb.svg',
+    humanName: 'Москоммерцбанк',
+    matchedBankNames: [
+      'Commercial Bank "Moskommertsbank" (Joint-Stock Company)',
+      'CB "Moskommertsbank" (JSC)',
+    ],
+  },
+  {
+    fileName: 'mcbankrus.svg',
+    humanName: 'МС Банк Рус',
+    matchedBankNames: [
+      'Joint-stock company MC Bank Rus',
+      'JSC MC Bank Rus',
+    ],
+  },
+  {
+    fileName: 'bank-mscb.png',
+    humanName: 'БАНК "МСКБ"',
+    matchedBankNames: [
+      'Joint-Stock company "Murmansk social commercial bank"',
+      'JSC "MSCB"',
+    ],
+  },
+  {
+    fileName: 'mspbank.svg',
+    humanName: 'МСП Банк',
+    matchedBankNames: [
+      'JSC Russian Bank for Small and Medium Enterprises Support',
+      'JSC SME Bank',
+    ],
+  },
+  {
+    fileName: 'mti-bank.svg',
+    humanName: 'МТИ Банк',
+    matchedBankNames: [
+      'Joint-stock company MTI Bank',
+      'MTI Bank',
+    ],
+  },
+  {
+    fileName: 'mtsbank.svg',
+    humanName: 'МТС-Банк',
+    matchedBankNames: [
+      'MTS',
+      'MTS-BANK',
+      'OJSC MTS-BANK',
+      'PJSC MTS BANK',
+      'МТС-БАНК',
+      'Public Joint-Stock Company "MTS Bank"',
+      'PJSC "MTS Bank"',
+    ],
+  },
+  {
+    fileName: 'profitbank.svg',
+    humanName: 'Муниципальный Камчатпрофитбанк',
+    matchedBankNames: [
+      'Municipal Kamchatprofitbank" (Joint-Stock Company)',
+      '"Municipal Kamchatprofitbank" (JSC)',
+    ],
+  },
+  {
+    fileName: 'bnal.svg',
+    humanName: 'Банк "Нальчик"',
+    matchedBankNames: [
+      'BANK "NALCHIK" (Limited Liability Company)',
+      'Bank "Nalchik" LLC',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
@@ -1063,24 +1177,6 @@ export const banks: IBankLogoItem[] = [
     matchedBankNames: [
       'JSCB MOSCOW INDUSTRIAL BANK',
       'МОСКОВСКИЙ ИНДУСТРИАЛЬНЫЙ БАНК',
-    ],
-  },
-  {
-    fileName: 'moskovskij_kreditnyj_bank.png',
-    humanName: 'МОСКОВСКИЙ КРЕДИТНЫЙ БАНК',
-    matchedBankNames: [
-      'Московский Кредитный Банк',
-    ],
-  },
-  {
-    fileName: 'mts-bank.png',
-    humanName: 'МТС-Банк',
-    matchedBankNames: [
-      'MTS',
-      'MTS-BANK',
-      'OJSC MTS-BANK',
-      'PJSC MTS BANK',
-      'МТС-БАНК',
     ],
   },
   {
