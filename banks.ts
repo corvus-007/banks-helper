@@ -1182,6 +1182,45 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'nrb.svg',
+    humanName: 'НРБанк',
+    matchedBankNames: [
+      'Joint-stock commercial bank "National Reserve Bank" joint-stock company',
+      'JSCB "NRBank" (JSC)',
+    ],
+  },
+  {
+    fileName: 'ns-bank.svg',
+    humanName: 'Национальный стандарт',
+    matchedBankNames: [
+      'National Standard Bank (Joint-stock Company) National Standard Bank',
+    ],
+  },
+  {
+    fileName: 'nbdbank.svg',
+    humanName: 'НБД-Банк',
+    matchedBankNames: [
+      'NBD-Bank',
+      'Public Joint-Stock Company, NBD-Bank',
+    ],
+  },
+  {
+    fileName: 'nib-samara.svg',
+    humanName: 'НИБ',
+    matchedBankNames: [
+      '"NATIONAL INVESTMENT BANK" JOINT-STOCK COMPANY',
+      '"NIB" JSC',
+    ],
+  },
+  {
+    fileName: 'nico-bank.svg',
+    humanName: 'НИКО-БАНК',
+    matchedBankNames: [
+      'PUBLIC JOINT-STOCK COMPANY "NEW INVESTMENT-COMMERCIAL ORENBURG BANK OF INDUSTRY DEVELOPMENT"',
+      'PJSC "NICO-BANK"',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
