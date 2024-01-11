@@ -1151,6 +1151,37 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'ndb24.svg',
+    humanName: 'НДБанк',
+    matchedBankNames: [
+      'Joint Stock Company "Public Trust Bank"',
+      'JSC "PTB"',
+    ],
+  },
+  {
+    fileName: 'natixis.svg',
+    humanName: 'Натиксис Банк',
+    matchedBankNames: [
+      'Joint Stock Company Natixis Bank',
+      'Natixis Bank JSC',
+    ],
+  },
+  {
+    fileName: 'nbsrf.svg',
+    humanName: 'БАНК НБС',
+    matchedBankNames: [
+      'National Savings Bank',
+    ],
+  },
+  {
+    fileName: 'nipbank.svg',
+    humanName: 'Нацинвестпромбанк',
+    matchedBankNames: [
+      '"National Investment Industrial Bank" (Joint Stock Company)',
+      '"Natsinvestprombank" (JSC)',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
