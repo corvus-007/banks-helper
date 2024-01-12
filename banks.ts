@@ -1252,6 +1252,84 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'newbank.svg',
+    humanName: 'Новый век',
+    matchedBankNames: [
+      '"New Century Bank" Limited',
+      '"NC Bank" ltd',
+    ],
+  },
+  {
+    fileName: 'nokss.svg',
+    humanName: 'НОКССБАНК',
+    matchedBankNames: [
+      'Development Bank of production of oil and gas extractive equipment, conversion, shipbuilding and construction (joint-stock company)',
+      'JSC NOKSSBANK',
+    ],
+  },
+  {
+    fileName: 'noosferabank.svg',
+    humanName: 'НООСФЕРА',
+    matchedBankNames: [
+      'NOOSPHERE Commercial Bank',
+    ],
+  },
+  {
+    fileName: 'norvikbank.svg',
+    humanName: 'Норвик Банк',
+    matchedBankNames: [
+      'НОРВИК БАНК',
+      'Public Joint-Stock Company "Norvik Bank"',
+      'PJSC "Norvik Bank"',
+    ],
+  },
+  {
+    fileName: 'nsbank.svg',
+    humanName: 'НС Банк',
+    matchedBankNames: [
+      'NS Bank',
+    ],
+  },
+  {
+    fileName: 'obr1016.svg',
+    humanName: 'ОБР',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'okbank.svg',
+    humanName: 'Банк "Объединенный капитал"',
+    matchedBankNames: [
+      'ОБЪЕДИНЕННЫЙ КАПИТАЛ',
+      'Joint-Stock Company Bank "United capital"',
+      'Bank "United capital"',
+    ],
+  },
+  {
+    fileName: 'ozonbank.svg',
+    humanName: 'ОЗОН Банк',
+    matchedBankNames: [
+      'ОЗОН БАНК',
+      'Limited Liability Company OZON Bank',
+      'LLC OZON Bank',
+    ],
+  },
+  {
+    fileName: 'otpbank.svg',
+    humanName: 'ОТП Банк',
+    matchedBankNames: [
+      'Joint Stock Company "OTP Bank"',
+      'JSC "OTP Bank"',
+    ],
+  },
+  {
+    fileName: 'pvubank.svg',
+    humanName: 'ПЕРВОУРАЛЬСКБАНК',
+    matchedBankNames: [
+      'JOINT-STOCK COMPANY "PERVOURALSKBANK"',
+      'PERVOURALSKBANK, JSC',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
@@ -1281,20 +1359,6 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'norvik_bank.png',
-    humanName: 'Норвик Банк',
-    matchedBankNames: [
-      'НОРВИК БАНК',
-    ],
-  },
-  {
-    fileName: 'obedinennyj_kapital_bank.svg',
-    humanName: 'Банк "Объединенный капитал"',
-    matchedBankNames: [
-      'ОБЪЕДИНЕННЫЙ КАПИТАЛ',
-    ],
-  },
-  {
     fileName: 'otkrytie_bank.png',
     humanName: 'Банк "ФК Открытие"',
     matchedBankNames: [
@@ -1305,13 +1369,6 @@ export const banks: IBankLogoItem[] = [
       'ОТП БАНК',
       // 'ПРИО-ВНЕШТОРГБАНК',
       'ФК ОТКРЫТИЕ',
-    ],
-  },
-  {
-    fileName: 'ozonbank.svg',
-    humanName: 'ОЗОН Банк',
-    matchedBankNames: [
-      'ОЗОН БАНК',
     ],
   },
   {
