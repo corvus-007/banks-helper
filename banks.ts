@@ -1221,6 +1221,37 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'nkbank.svg',
+    humanName: 'НК Банк',
+    matchedBankNames: [
+      'NK Bank (joint stock company)',
+      'NK Bank',
+    ],
+  },
+  {
+    fileName: 'novikom.svg',
+    humanName: 'НОВИКОМБАНК',
+    matchedBankNames: [
+      'JSCB NOVIKOMBANK',
+      'Joint-Stock Commercial Bank "NOVIKOMBANK"',
+    ],
+  },
+  {
+    fileName: 'novobank.svg',
+    humanName: 'Новобанк',
+    matchedBankNames: [
+      'Public Joint Stock Company Universal Commercial Bank of Novgorod Novobank',
+      'PJSC UCB "Novobank"',
+    ],
+  },
+  {
+    fileName: 'novokib.svg',
+    humanName: 'НОВОКИБ',
+    matchedBankNames: [
+      'Novokuznetsk commercial innovation bank limited Ltd "NovoKIB"',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
@@ -1254,13 +1285,6 @@ export const banks: IBankLogoItem[] = [
     humanName: 'Норвик Банк',
     matchedBankNames: [
       'НОРВИК БАНК',
-    ],
-  },
-  {
-    fileName: 'novikombank.png',
-    humanName: 'НОВИКОМБАНК',
-    matchedBankNames: [
-      'JSCB NOVIKOMBANK',
     ],
   },
   {
