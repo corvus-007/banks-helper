@@ -1361,6 +1361,78 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'bankperm.svg',
+    humanName: 'Банк Пермь',
+    matchedBankNames: [
+      'Joint-stock Bank Perm',
+      'Bank Perm',
+    ],
+  },
+  {
+    fileName: 'pscb.svg',
+    humanName: 'Банк "ПСКБ"',
+    matchedBankNames: [
+      'Joint-stock company "Petersburg social commercial bank"',
+      'JSC Bank "PSCB"',
+    ],
+  },
+  {
+    fileName: 'poidem.svg',
+    humanName: 'Пойдём!',
+    matchedBankNames: [
+      'Joint Stock Company Commercial Bank "Poidem!"',
+      'JSC CB "Poidem!"',
+    ],
+  },
+  {
+    fileName: 'pochtabank.svg',
+    humanName: 'Почта Банк',
+    matchedBankNames: [
+      'POCHTA BANK',
+      'POCHTA BANK OJSC',
+      'ПОЧТА БАНК',
+      'Joint-stock company "Post Bank"',
+      'JSC "Post Bank"',
+    ],
+  },
+  {
+    fileName: 'uralexpress.svg',
+    humanName: 'Почтобанк',
+    matchedBankNames: [
+      'Joint Stock Commercial Innovation Bank of telecommunications and informatics "Pochtobank"',
+      'JSCIB "Pochtobank"',
+    ],
+  },
+  {
+    fileName: 'ptkb.svg',
+    humanName: 'Примтеркомбанк',
+    matchedBankNames: [
+      'Primorsky territorial commercial bank, (Society with limited liability)',
+      'Primtercombank',
+    ],
+  },
+  {
+    fileName: 'primbank.svg',
+    humanName: 'Приморье',
+    matchedBankNames: [
+      'public joint-stock commercial bank "Primorye"',
+      'PJSCB "Primorye"',
+    ],
+  },
+  {
+    fileName: 'pskb.svg',
+    humanName: 'Примсоцбанк',
+    matchedBankNames: [
+      'Public Joint-Stock Social Commercial Bank of Primorye "Primsotsbank"',
+      'PJS SCBP "Primsotsbank"',
+    ],
+  },
+  {
+    fileName: 'priobye.svg',
+    humanName: 'Приобье',
+    matchedBankNames: [],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
@@ -1400,16 +1472,6 @@ export const banks: IBankLogoItem[] = [
       'ОТП БАНК',
       // 'ПРИО-ВНЕШТОРГБАНК',
       'ФК ОТКРЫТИЕ',
-    ],
-  },
-  {
-    fileName: 'pochta_bank.svg',
-    humanName: 'Почта Банк',
-    matchedBankNames: [
-      'POCHTA BANK',
-      'POCHTA BANK OJSC',
-      'ПОЧТА БАНК',
-      'ПОЧТОБАНК',
     ],
   },
   {
