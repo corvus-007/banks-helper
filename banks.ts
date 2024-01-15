@@ -1330,6 +1330,37 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'dtb1.svg',
+    humanName: 'Первый Дортрансбанк',
+    matchedBankNames: [
+      'FIRST JOINT STOCK COMMERCIAL ROAD AND TRANSPORT BANK',
+      'First DorTransBank',
+    ],
+  },
+  {
+    fileName: 'finbank.svg',
+    humanName: 'Первый Инвестиционный Банк',
+    matchedBankNames: [
+      'Joint Stock Company "First Investment Bank";',
+      'JSC "Finbank"',
+    ],
+  },
+  {
+    fileName: '1cb.svg',
+    humanName: 'Первый Клиентский Банк',
+    matchedBankNames: [
+      'First Client Bank (Limited Liability Company)',
+    ],
+  },
+  {
+    fileName: 'bank-peresvet.svg',
+    humanName: 'ПЕРЕСВЕТ',
+    matchedBankNames: [
+      'Joint Stock Commercial Bank "PERESVET" (Public joint-stock company)',
+      'Peresvet Bank (PJSC)',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
