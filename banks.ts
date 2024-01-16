@@ -1029,7 +1029,7 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'mbbru.png',
+    fileName: 'mbbru.svg',
     humanName: 'МБ Банк',
     matchedBankNames: [
       'Joint Stock Company "Mir Business Bank"',
