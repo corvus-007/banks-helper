@@ -1470,6 +1470,48 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'promtransbank.svg',
+    humanName: 'Банк ПТБ',
+    matchedBankNames: [
+      'PromTransBank (Limited liability company)',
+      'Bank PTB (LLC)',
+    ],
+  },
+  {
+    fileName: 'probank.svg',
+    humanName: 'ПроБанк',
+    matchedBankNames: [
+      'Joint-Stock Company "Professional Bank"',
+      'JSC "ProBank"',
+    ],
+  },
+  {
+    fileName: 'dcapital.svg',
+    humanName: 'Банк "Развитие-Столица"',
+    matchedBankNames: [
+      'Development Capital Bank',
+    ],
+  },
+  {
+    fileName: 'raiffeisen.svg',
+    humanName: 'Райффайзенбанк',
+    matchedBankNames: [
+      'AO RAIFFEISENBANK',
+      'ZAO RAIFFEISENBANK',
+      'РАЙФФАЙЗЕНБАНК',
+      'Joint stock company Raiffeisenbank',
+      'AO Raiffeisenbank',
+    ],
+  },
+  {
+    fileName: 'rbabank.svg',
+    humanName: 'РБА',
+    matchedBankNames: [
+      'Commercial bank "RBA" (Limited Liability Company)',
+      'CB "RBA" (LLC)',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
@@ -1509,15 +1551,6 @@ export const banks: IBankLogoItem[] = [
       'ОТП БАНК',
       // 'ПРИО-ВНЕШТОРГБАНК',
       'ФК ОТКРЫТИЕ',
-    ],
-  },
-  {
-    fileName: 'rajffajzenbank.png',
-    humanName: 'Райффайзенбанк',
-    matchedBankNames: [
-      'AO RAIFFEISENBANK',
-      'ZAO RAIFFEISENBANK',
-      'РАЙФФАЙЗЕНБАНК',
     ],
   },
   {
