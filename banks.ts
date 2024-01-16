@@ -1433,6 +1433,43 @@ export const banks: IBankLogoItem[] = [
     matchedBankNames: [],
   },
   {
+    fileName: 'priovtb.svg',
+    humanName: 'Прио-Внешторгбанк',
+    matchedBankNames: [
+      'ПРИО-ВНЕШТОРГБАНК',
+      'Prio-Vneshtorgbank (public joint stock company)',
+      'Prio-Vneshtorgbank (PJSC)',
+    ],
+  },
+  {
+    fileName: 'procombank.svg',
+    humanName: 'ПроКоммерцБанк',
+    matchedBankNames: [
+      'ProCommerceBank Limited Liability Company',
+      'ProCommerceBank Ltd.',
+    ],
+  },
+  {
+    fileName: 'psbank.svg',
+    humanName: 'Промсвязьбанк',
+    matchedBankNames: [
+      'OJSC PROMSVYAZBANK',
+      'PUBLIC JOINT STOCK COMPANY PROMSVYAZBANK',
+      'ПРОМСВЯЗЬБАНК',
+      'Promsvyazbank Public Joint-Stock Company',
+      'Promsvyazbank PJSC',
+    ],
+  },
+  {
+    fileName: 'pshb.svg',
+    humanName: 'Промсельхозбанк',
+    matchedBankNames: [
+      'ПРОМСЕЛЬХОЗБАНК',
+      'Industrial Agricultural Bank Limited',
+      '"Promselhozbank" Ltd.',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
@@ -1472,29 +1509,6 @@ export const banks: IBankLogoItem[] = [
       'ОТП БАНК',
       // 'ПРИО-ВНЕШТОРГБАНК',
       'ФК ОТКРЫТИЕ',
-    ],
-  },
-  {
-    fileName: 'prio-vneshtorgbank.png',
-    humanName: 'Прио-Внешторгбанк',
-    matchedBankNames: [
-      'ПРИО-ВНЕШТОРГБАНК',
-    ],
-  },
-  {
-    fileName: 'promselxozbank.png',
-    humanName: 'Промсельхозбанк',
-    matchedBankNames: [
-      'ПРОМСЕЛЬХОЗБАНК',
-    ],
-  },
-  {
-    fileName: 'promsvyazbank.png',
-    humanName: 'Промсвязьбанк',
-    matchedBankNames: [
-      'OJSC PROMSVYAZBANK',
-      'PUBLIC JOINT STOCK COMPANY PROMSVYAZBANK',
-      'ПРОМСВЯЗЬБАНК',
     ],
   },
   {
