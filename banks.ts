@@ -266,14 +266,6 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'bank_rossiya.svg',
-    humanName: 'РОССИЯ',
-    matchedBankNames: [
-      'OJSC JSB ROSSIYA',
-      'РОССИЯ',
-    ],
-  },
-  {
     fileName: 'blank_bank.svg',
     humanName: 'Бланк банк',
     matchedBankNames: [
@@ -1512,6 +1504,149 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'realistbank.svg',
+    humanName: 'РЕАЛИСТ БАНК',
+    matchedBankNames: [
+      'Joint-Stock Company "Realist Bank"',
+      'JSC "REALIST BANK"',
+    ],
+  },
+  {
+    fileName: 'rencredit.svg',
+    humanName: 'Ренессанс Кредит',
+    matchedBankNames: [
+      'COMMERCIAL BANK RENAISSANCE CREDIT (LIMITED LIABILITY COMPANY)',
+      'РЕНЕССАНС КРЕДИТ',
+      'Commercial bank "Renaissance Credit" (Limited liability company)',
+      'CB "Renaissance Credit" (LLC)',
+    ],
+  },
+  {
+    fileName: 'resocreditbank.svg',
+    humanName: 'РЕСО Кредит',
+    matchedBankNames: [
+      'Bank RESO Credit',
+    ],
+  },
+  {
+    fileName: 'cbrca.png',
+    humanName: 'Республиканский Кредитный Альянс',
+    matchedBankNames: [
+      'Commercial bank "Republic Credit Alliance"',
+      'Republic Credit Alliance',
+    ],
+  },
+  {
+    fileName: 'autofinancebank.svg',
+    humanName: 'Авто Финанс Банк',
+    matchedBankNames: [
+      'Joint Stock Company "Auto Finance Bank"',
+      'JSC "Auto Finance Bank"',
+    ],
+  },
+  {
+    fileName: 'rosbank.svg',
+    humanName: 'РОСБАНК',
+    matchedBankNames: [
+      'JSCB ROSBANK',
+      'PJSC ROSBANK',
+      'Public joint-stock company ROSBANK',
+    ],
+  },
+  {
+    fileName: 'rdb.svg',
+    humanName: 'РосДорБанк',
+    matchedBankNames: [
+      'Russian public joint-stock commercial roads Bank',
+      'RosDorBank',
+    ],
+  },
+  {
+    fileName: 'rshb.svg',
+    humanName: 'Россельхозбанк',
+    matchedBankNames: [
+      'JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK',
+      'OJSC RUSSIAN AGRICULTURAL BANK',
+      'ROSSELKHOZBANK',
+      'РОССЕЛЬХОЗБАНК',
+      'Joint stock company Russian Agricultural Bank',
+      'JSC Rosselkhozbank',
+    ],
+  },
+  {
+    fileName: 'rusfincorp.svg',
+    humanName: 'РФК-банк',
+    matchedBankNames: [
+      'Bank "Russian Financial Corporation" joint-stock company',
+      'JSC "RFC-bank"',
+    ],
+  },
+  {
+    fileName: 'rncb.svg',
+    humanName: 'РНКБ Банк',
+    matchedBankNames: [
+      'RNKB',
+      'РОССИЙСКИЙ НАЦИОНАЛЬНЫЙ КОММЕРЧЕСКИЙ БАНК',
+      'Russian National Commercial Bank RNCB',
+    ],
+  },
+  {
+    fileName: 'russitabank.svg',
+    humanName: 'РОССИТА-БАНК',
+    matchedBankNames: [
+      '"RUSSITABANK" (LTD)',
+    ],
+  },
+  {
+    fileName: 'abr.svg',
+    humanName: 'РОССИЯ',
+    matchedBankNames: [
+      'OJSC JSB ROSSIYA',
+      'РОССИЯ',
+      'BANK "ROSSIYA"',
+    ],
+  },
+  {
+    fileName: 'rostfinance.svg',
+    humanName: 'РостФинанс',
+    matchedBankNames: [
+      'Limited Liability Company of Commercial Bank "RostFinance"',
+      'LLC Commercial Bank "RostFinance"',
+    ],
+  },
+  {
+    fileName: 'eximbank.svg',
+    humanName: 'РОСЭКСИМБАНК',
+    matchedBankNames: [
+      'State Specialized Russian Export-Import Bank (joint-stock company)',
+      'EXIMBANK OF RUSSIA',
+    ],
+  },
+  {
+    fileName: 'royal-bank.svg',
+    humanName: 'Роял Кредит Банк',
+    matchedBankNames: [
+      'Joint-stock company "Royal Credit Bank"',
+      '"Royal Credit Bank", JSC',
+    ],
+  },
+  {
+    fileName: 'rusnarbank.svg',
+    humanName: 'РУСНАРБАНК',
+    matchedBankNames: [
+      'Joint stock company Commercial bank "RUSNARBANK"',
+      'JSC "RUSNARBANK"',
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'РУСБС',
+    matchedBankNames: [
+      'Russian Bank of Savings (Limited Liability Company)',
+      'RUSBSBANK',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
@@ -1554,51 +1689,10 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'renessans_kredit_bank.png',
-    humanName: 'Ренессанс Кредит',
-    matchedBankNames: [
-      'COMMERCIAL BANK RENAISSANCE CREDIT (LIMITED LIABILITY COMPANY)',
-      'РЕНЕССАНС КРЕДИТ',
-    ],
-  },
-  {
-    fileName: 'rn_bank.png',
-    humanName: 'РН Банк',
-    matchedBankNames: [
-      'РН БАНК',
-    ],
-  },
-  {
-    fileName: 'rnkb_bank.svg',
-    humanName: 'РНКБ Банк',
-    matchedBankNames: [
-      'RNKB',
-      'РОССИЙСКИЙ НАЦИОНАЛЬНЫЙ КОММЕРЧЕСКИЙ БАНК',
-    ],
-  },
-  {
     fileName: 'rnko_platezhnyj_centr.jpg',
     humanName: 'РНКО "Платежный Центр"',
     matchedBankNames: [
       'CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)',
-    ],
-  },
-  {
-    fileName: 'rosbank.svg',
-    humanName: 'РОСБАНК',
-    matchedBankNames: [
-      'JSCB ROSBANK',
-      'PJSC ROSBANK',
-    ],
-  },
-  {
-    fileName: 'rosselhozbank.png',
-    humanName: 'Россельхозбанк',
-    matchedBankNames: [
-      'JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK',
-      'OJSC RUSSIAN AGRICULTURAL BANK',
-      'ROSSELKHOZBANK',
-      'РОССЕЛЬХОЗБАНК',
     ],
   },
   {
