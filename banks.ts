@@ -1647,6 +1647,45 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'rrbank.svg',
+    humanName: 'РусьРегионБанк',
+    matchedBankNames: [
+      'Commercial Bank "Russian Regional Bank" Joint-Stock company',
+      'CB "RusRegionBank" Jsc',
+    ],
+  },
+  {
+    fileName: 'rsb.svg',
+    humanName: 'Банк Русский Стандарт',
+    matchedBankNames: [
+      'РУССКИЙ СТАНДАРТ',
+      'Joint Stock Company "Russian Standard Bank"',
+      'JSC "Russian Standard Bank"',
+    ],
+  },
+  {
+    fileName: 'rubank.svg',
+    humanName: 'Русьуниверсалбанк',
+    matchedBankNames: [
+      'Russian Universal Bank',
+    ],
+  },
+  {
+    fileName: 'kbsammit.svg',
+    humanName: 'САММИТ БАНК',
+    matchedBankNames: [
+      'Joint-Stock Company Commercial Bank "SUMMIT BANK"',
+    ],
+  },
+  {
+    fileName: 'sbionline.svg',
+    humanName: 'Санкт-Петербургский банк инвестиций',
+    matchedBankNames: [
+      'Saint-Petersburg Bank of Investments, Inc',
+      'SBI, Inc.',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'Хлынов',
     matchedBankNames: [
@@ -1693,13 +1732,6 @@ export const banks: IBankLogoItem[] = [
     humanName: 'РНКО "Платежный Центр"',
     matchedBankNames: [
       'CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY)',
-    ],
-  },
-  {
-    fileName: 'russkij_standart_bank.png',
-    humanName: 'Банк Русский Стандарт',
-    matchedBankNames: [
-      'РУССКИЙ СТАНДАРТ',
     ],
   },
   {
