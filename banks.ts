@@ -177,7 +177,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'avangard_bank.png',
-    humanName: 'АВАНГАРД',
+    humanName: 'АКБ АВАНГАРД',
     matchedBankNames: [
       'JSB AVANGARD',
       'АВАНГАРД',
@@ -1599,7 +1599,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'abr.svg',
-    humanName: 'РОССИЯ',
+    humanName: 'АБ РОССИЯ',
     matchedBankNames: [
       'OJSC JSB ROSSIYA',
       'РОССИЯ',
@@ -1686,8 +1686,71 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'banksaratov.svg',
+    humanName: 'Банк "Саратов"',
+    matchedBankNames: [
+      'Commercial Bank "Saratov"',
+      'Bank "Saratov"',
+    ],
+  },
+  {
+    fileName: 'sbbank.svg',
+    humanName: 'САРОВБИЗНЕСБАНК',
+    matchedBankNames: [
+      'JointStockCompany SAROVBUSINESSBANK',
+      'JSC SAROVBUSINESSBANK',
+    ],
+  },
+  {
+    fileName: 'sberbank.svg',
+    humanName: 'Сбербанк',
+    matchedBankNames: [
+      'SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)',
+      'sber',
+      'SBERBANK OF RUSSIA',
+      'СБЕРБАНК РОССИИ',
+      'Sberbank of Russia',
+      'Sberbank',
+    ],
+  },
+  {
+    fileName: 'sdm.svg',
+    humanName: 'СДМ-Банк',
+    matchedBankNames: [
+      'SDM-Bank Public Joint Stock Company',
+      'SDM-Bank PJSC',
+    ],
+  },
+  {
+    fileName: 'sevnb.svg',
+    humanName: 'Северный Народный Банк',
+    matchedBankNames: [
+      'Severny Narodny Bank',
+      'SNB',
+    ],
+  },
+  {
+    fileName: 'severstroybank35.svg',
+    humanName: 'СеверСтройБанк',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'strelabank.svg',
+    humanName: 'Стрела',
+    matchedBankNames: [
+      'Bank Strela (joint-stock company)',
+    ],
+  },
+  {
+    fileName: 'selmashbank.svg',
+    humanName: 'Сельмашбанк',
+    matchedBankNames: [
+      'Joint-Stock commercial bank "Selmashbank"',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
-    humanName: 'Хлынов',
+    humanName: 'КБ Хлынов',
     matchedBankNames: [
       'ХЛЫНОВ',
     ],
@@ -1716,7 +1779,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'otkrytie_bank.png',
-    humanName: 'Банк "ФК Открытие"',
+    humanName: 'Банк ОТКРЫТИЕ',
     matchedBankNames: [
       'CB OTKRITIE CJSC',
       'JSCB JSCB BINBANK',
@@ -1771,17 +1834,6 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'sberbank.png',
-    humanName: 'Сбербанк',
-    matchedBankNames: [
-      'SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)',
-      'sber',
-      'SBERBANK OF RUSSIA',
-      'Сбербанк',
-      'СБЕРБАНК РОССИИ',
-    ],
-  },
-  {
     fileName: 'sinara_bank.svg',
     humanName: 'Банк Синара',
     matchedBankNames: [
@@ -1795,14 +1847,6 @@ export const banks: IBankLogoItem[] = [
     humanName: 'Ситибанк',
     matchedBankNames: [
       'СИТИБАНК',
-    ],
-  },
-  {
-    fileName: 'smp_bank.svg',
-    humanName: 'СМП Банк',
-    matchedBankNames: [
-      'SEVERNY MORSKOY PUT OJSC',
-      'СЕВЕРНЫЙ МОРСКОЙ ПУТЬ',
     ],
   },
   {
@@ -1884,7 +1928,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'vbrr.svg',
-    humanName: 'Банк "ВБРР"',
+    humanName: 'Банк ВБРР',
     matchedBankNames: [
       'JOINT-STOCK COMPANY RUSSIAN REGIONAL DEVELOPMENT BANK (RRDB)',
       'RUSSIAN REGIONAL DEVELOPMENT BANK',
