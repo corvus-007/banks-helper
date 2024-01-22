@@ -382,13 +382,6 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'driveclickbank.png',
-    humanName: 'Сетелем Банк',
-    matchedBankNames: [
-      'СЕТЕЛЕМ БАНК',
-    ],
-  },
-  {
     fileName: 'ekonombank.png',
     humanName: 'Экономбанк',
     matchedBankNames: ['ЭКОНОМБАНК'],
@@ -574,6 +567,14 @@ export const banks: IBankLogoItem[] = [
     fileName: 'donteksbank.svg',
     humanName: 'Дон-Тексбанк',
     matchedBankNames: [],
+  },
+  {
+    fileName: 'driveclickbank.svg',
+    humanName: 'Драйв Клик Банк',
+    matchedBankNames: [
+      'Limited Liability Company "Drive Click Bank"',
+      'LLC "Drive Click Bank"',
+    ],
   },
   {
     fileName: 'bankd.svg',
@@ -1735,17 +1736,59 @@ export const banks: IBankLogoItem[] = [
     matchedBankNames: [],
   },
   {
-    fileName: 'strelabank.svg',
-    humanName: 'Стрела',
-    matchedBankNames: [
-      'Bank Strela (joint-stock company)',
-    ],
-  },
-  {
     fileName: 'selmashbank.svg',
     humanName: 'Сельмашбанк',
     matchedBankNames: [
       'Joint-Stock commercial bank "Selmashbank"',
+    ],
+  },
+  {
+    fileName: 'srbank.svg',
+    humanName: 'СЕРВИС РЕЗЕРВ',
+    matchedBankNames: [
+      'Bank "SERVICE RESERVE" (joint-stock company)',
+      'Bank "SERVICE RESERVE" (JSC)',
+    ],
+  },
+  {
+    fileName: 'finstarbank.svg',
+    humanName: 'ФИНСТАР БАНК',
+    matchedBankNames: [
+      'Public Joint Stock Company "FINSTAR BANK"',
+      'PJSC FINSTAR BANK',
+    ],
+  },
+  {
+    fileName: 'sibsoc.svg',
+    humanName: 'СИБСОЦБАНК',
+    matchedBankNames: [
+      '"REGIONAL COMMERCIAL SIBERIAN SOCIAL BANK" LIMITED LIABILITY COMPANY',
+    ],
+  },
+  {
+    fileName: 'sinara.svg',
+    humanName: 'Банк Синара',
+    matchedBankNames: [
+      'JSCB OF SUPPORT TO COMMERCE AND BUSINESS SKB BANK',
+      'SKB-BANK',
+      'СИНАРА',
+      'PUBLIC JOINT-STOCK COMPANY BANK SINARA',
+      'BANK SINARA',
+    ],
+  },
+  {
+    fileName: 'sinko-bank.svg',
+    humanName: 'СИНКО-БАНК',
+    matchedBankNames: [
+      '"SINKO-BANK" Ltd.',
+    ],
+  },
+  {
+    fileName: 'sistemabank.svg',
+    humanName: 'СИСТЕМА',
+    matchedBankNames: [
+      'Commercial Bank "SISTEMA" Limited Liability Company',
+      'CB "SISTEMA" LLC',
     ],
   },
   {
@@ -1834,15 +1877,6 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'sinara_bank.svg',
-    humanName: 'Банк Синара',
-    matchedBankNames: [
-      'JSCB OF SUPPORT TO COMMERCE AND BUSINESS SKB BANK',
-      'SKB-BANK',
-      'СИНАРА',
-    ],
-  },
-  {
     fileName: 'sitibank.png',
     humanName: 'Ситибанк',
     matchedBankNames: [
@@ -1867,6 +1901,13 @@ export const banks: IBankLogoItem[] = [
     fileName: 'spbbank.svg',
     humanName: 'СПБ Банк',
     matchedBankNames: [],
+  },
+  {
+    fileName: 'strelabank.svg',
+    humanName: 'Стрела',
+    matchedBankNames: [
+      'Bank Strela (joint-stock company)',
+    ],
   },
   {
     fileName: 'surgutneftegazbank.png',
