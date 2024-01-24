@@ -1792,6 +1792,86 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'cibank.svg',
+    humanName: 'Сити Инвест Банк',
+    matchedBankNames: [
+      'Joint-stock bank "City Invest Bank"',
+      'AO "City Invest Bank"',
+    ],
+  },
+  {
+    fileName: 'citibank.svg',
+    humanName: 'Ситибанк',
+    matchedBankNames: [
+      'СИТИБАНК',
+      'Joint Stock Company Commercial Bank Citibank',
+      'AO Citibank',
+    ],
+  },
+  {
+    fileName: 'slaviabank.svg',
+    humanName: 'СЛАВИЯ',
+    matchedBankNames: [
+      'Joint Stock Commercial Bank "SLAVIA"',
+      'JSCB "SLAVIA"',
+    ],
+  },
+  {
+    fileName: 'slavbank.svg',
+    humanName: 'СЛАВЯНБАНК',
+    matchedBankNames: [
+      'SB CBN "SLAVYANBANK"',
+    ],
+  },
+  {
+    fileName: 'snbank.svg',
+    humanName: 'Снежинский',
+    matchedBankNames: [
+      'Joint Stock Company Bank of Conversion "Snezhinskiy"',
+      'Bank "Snezhinskiy" JSC',
+    ],
+  },
+  {
+    fileName: 'sovcombank.svg',
+    humanName: 'Совкомбанк',
+    matchedBankNames: [
+      'СОВКОМБАНК',
+      'Public Joint-Stock Company "Sovcombank"',
+      'PJSC "Sovcombank"',
+    ],
+  },
+  {
+    fileName: 'sbnk.svg',
+    humanName: 'Соколовский',
+    matchedBankNames: [
+      'Joint Stock Company Commercial bank "Sokolovsky"',
+      '"Sokolovsky" Bank',
+    ],
+  },
+  {
+    fileName: 'solidbank.svg',
+    humanName: 'Солид Банк',
+    matchedBankNames: [
+      'Joint Stock Company "Solid Bank"',
+      'JSC "Solid Bank"',
+    ],
+  },
+  {
+    fileName: 'bank_solidarity.svg',
+    humanName: 'Солидарность',
+    matchedBankNames: [
+      'Joint-Stock Company Commercial Bank "Solidarnost"',
+    ],
+  },
+  {
+    fileName: 'socium-bank.svg',
+    humanName: 'СОЦИУМ-БАНК',
+    matchedBankNames: [
+      '"SOCIUM-BANK" (Limited Liability Company)',
+      'SOCIUM-BANK',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'КБ Хлынов',
     matchedBankNames: [
@@ -1874,20 +1954,6 @@ export const banks: IBankLogoItem[] = [
     humanName: 'Банк БЖФ',
     matchedBankNames: [
       'БАНК ЖИЛИЩНОГО ФИНАНСИРОВАНИЯ',
-    ],
-  },
-  {
-    fileName: 'sitibank.png',
-    humanName: 'Ситибанк',
-    matchedBankNames: [
-      'СИТИБАНК',
-    ],
-  },
-  {
-    fileName: 'sovkombank.png',
-    humanName: 'Совкомбанк',
-    matchedBankNames: [
-      'СОВКОМБАНК',
     ],
   },
   {
