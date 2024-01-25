@@ -704,6 +704,14 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'ingobank.svg',
+    humanName: 'Ингосстрах Банк',
+    matchedBankNames: [
+      'Joint Stock Company Ingosstrakh Bank',
+      'JSC Ingosstrakh Bank',
+    ],
+  },
+  {
     fileName: 'ipb.svg',
     humanName: 'Банк ИПБ',
     matchedBankNames: [
@@ -1872,6 +1880,45 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'spbbank.svg',
+    humanName: 'СПБ Банк',
+    matchedBankNames: [
+      'Public Joint Stock Company "SPB Bank"',
+      'PJSC "SPB Bank"',
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'СПЕЦСТРОЙБАНК',
+    matchedBankNames: [
+      'SPECSTROYBANK',
+    ],
+  },
+  {
+    fileName: 'psbst.svg',
+    humanName: 'Ставропольпромстройбанк',
+    matchedBankNames: [
+      'Public joint stock company Investment-commercial industrial-construction bank "Stavropolye"',
+      'Stavropolpromstroybank',
+    ],
+  },
+  {
+    fileName: 'capitalkredit.svg',
+    humanName: 'Столичный Кредит',
+    matchedBankNames: [
+      'Commercial Bank "Capital Kredit", Ltd.',
+      '"Capital Kredit", Ltd.',
+    ],
+  },
+  {
+    fileName: 'slbank.svg',
+    humanName: 'СТРОЙЛЕСБАНК',
+    matchedBankNames: [
+      'COMMERCIAL BANK "STROYLESBANK" LIMITED',
+      'SLB BANK',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'КБ Хлынов',
     matchedBankNames: [
@@ -1955,18 +2002,6 @@ export const banks: IBankLogoItem[] = [
     matchedBankNames: [
       'БАНК ЖИЛИЩНОГО ФИНАНСИРОВАНИЯ',
     ],
-  },
-  {
-    fileName: 'soyuz_bank.png',
-    humanName: 'Банк СОЮЗ',
-    matchedBankNames: [
-      'СОЮЗ',
-    ],
-  },
-  {
-    fileName: 'spbbank.svg',
-    humanName: 'СПБ Банк',
-    matchedBankNames: [],
   },
   {
     fileName: 'strelabank.svg',
