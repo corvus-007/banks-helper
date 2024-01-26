@@ -1919,6 +1919,157 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'smbcr-bank.svg',
+    humanName: 'СМБСР Банк',
+    matchedBankNames: [
+      'JSC Sumitomo Mitsui Rus Bank',
+    ],
+  },
+  {
+    fileName: 'sngb.svg',
+    humanName: 'БАНК "СНГБ"',
+    matchedBankNames: [
+      'Joint Stock Company Surgutneftegasbank',
+      'JSC BANK SNGB',
+    ],
+  },
+  {
+    fileName: 'seb.svg',
+    humanName: 'СЭБ Банк',
+    matchedBankNames: [
+      'SEB Bank JSC',
+    ],
+  },
+  {
+    fileName: 'tavrich.svg',
+    humanName: 'Таврический Банк',
+    matchedBankNames: [
+      'Tavrichesky Bank (joint-stock company)',
+      'Tavrichesky Bank (JSC)',
+    ],
+  },
+  {
+    fileName: 'tagbank.svg',
+    humanName: 'Таганрогбанк',
+    matchedBankNames: [
+      'JOINT-STOCK COMPANY "TAGANROGBANK"',
+      'JSC "TAGANROGBANK"',
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'Тайдон',
+    matchedBankNames: [
+      'Non-bank credit organization "Taidon" Limited liability company',
+      'NCO "Taidon" LLC',
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'Банк "ТКПБ"',
+    matchedBankNames: [
+      'Joint-Stock Company Bank "Tambovkreditprombank"',
+      'JSC Bank "TKPB"',
+    ],
+  },
+  {
+    fileName: 'tatsocbank.svg',
+    humanName: 'ТАТСОЦБАНК',
+    matchedBankNames: [
+      'JOINT STOCK COMPANY "BANK OF SOCIAL DEVELOPMENT OF TATARSTAN "TATSOTSBANK"',
+      'TATSOTSBANK',
+    ],
+  },
+  {
+    fileName: 'tenderbank.svg',
+    humanName: 'ТЕНДЕР-БАНК',
+    matchedBankNames: [
+      'Joint stock capital bank "TENDER-BANK"',
+      'JSCB "TENDER-BANK"',
+    ],
+  },
+  {
+    fileName: 'timerbank.svg',
+    humanName: 'Тимер Банк',
+    matchedBankNames: [
+      '"Timer Bank" (joint-stock company)',
+      '"Timer Bank" (JSC)',
+    ],
+  },
+  {
+    fileName: 'tinkoff_bank.svg',
+    humanName: 'Тинькофф Банк',
+    matchedBankNames: [
+      'TINKOFF BANK',
+      'Тинькоф',
+      'ТИНЬКОФФ БАНК',
+      'Tinkoff Bank',
+    ],
+  },
+  {
+    fileName: 'toyota.svg',
+    humanName: 'Тойота Банк',
+    matchedBankNames: [
+      'AO Toyota Bank',
+    ],
+  },
+  {
+    fileName: 'thbank.svg',
+    humanName: 'Тольяттихимбанк',
+    matchedBankNames: [
+      'ТОЛЬЯТТИХИМБАНК',
+      'Joint-Stock company "Togliattikhimbank"',
+    ],
+  },
+  {
+    fileName: 'tpsbank.svg',
+    humanName: 'Томскпромстройбанк',
+    matchedBankNames: [
+      'Public Joint-Stock Company "Tomsk Joint-Stock Investment-Commercial Industrial-Construction Bank"',
+      'PJSC "Tomskpromstroybank"',
+    ],
+  },
+  {
+    fileName: 'kb-tub.svg',
+    humanName: 'Банк "Торжок"',
+    matchedBankNames: [
+      'Торжок',
+    ],
+  },
+  {
+    fileName: 'tkbbank.svg',
+    humanName: 'ТКБ БАНК ',
+    matchedBankNames: [
+      'TRANSKAPITALBANK',
+      'TKB',
+    ],
+  },
+  {
+    fileName: 'transstroybank.svg',
+    humanName: 'Трансстройбанк',
+    matchedBankNames: [
+      'Joint Stock Commercial Bank "Transstroibank" (Joint Stock company)',
+      'Transstroibank',
+    ],
+  },
+  {
+    fileName: 'trust.svg',
+    humanName: 'Банк "ТРАСТ"',
+    matchedBankNames: [
+      'National Bank TRUST',
+      'NB TRUST',
+    ],
+  },
+  {
+    fileName: 'coalmetbank.svg',
+    humanName: 'Углеметбанк',
+    matchedBankNames: [
+      'УГЛЕМЕТБАНК',
+      'Joint-Stock Company "Coalmetbank"',
+      'Coalmetbank',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'КБ Хлынов',
     matchedBankNames: [
@@ -2018,39 +2169,11 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'tatsocbank.svg',
-    humanName: 'ТАТСОЦБАНК',
-    matchedBankNames: [],
-  },
-  {
-    fileName: 'thbank.svg',
-    humanName: 'Тольяттихимбанк',
-    matchedBankNames: [
-      'ТОЛЬЯТТИХИМБАНК',
-    ],
-  },
-  {
-    fileName: 'tinkoff_bank.svg',
-    humanName: 'Тинькофф Банк',
-    matchedBankNames: [
-      'TINKOFF BANK',
-      'Тинькоф',
-      'ТИНЬКОФФ БАНК',
-    ],
-  },
-  {
     fileName: 'ubrirbank.png',
     humanName: 'УБРиР',
     matchedBankNames: [
       'URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT',
       'УРАЛЬСКИЙ БАНК РЕКОНСТРУКЦИИ И РАЗВИТИЯ',
-    ],
-  },
-  {
-    fileName: 'uglemetbank.png',
-    humanName: 'Углеметбанк',
-    matchedBankNames: [
-      'УГЛЕМЕТБАНК',
     ],
   },
   {
