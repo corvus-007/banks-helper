@@ -394,11 +394,6 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'fora_bank.png',
-    humanName: 'ФОРА-БАНК',
-    matchedBankNames: [],
-  },
-  {
     fileName: 'gazprombank.svg',
     humanName: 'Банк ГПБ',
     matchedBankNames: [
@@ -2070,6 +2065,118 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: '',
+    humanName: 'Унифондбанк',
+    matchedBankNames: [
+      'Universal stock bank LTD',
+    ],
+  },
+  {
+    fileName: 'uralprombank.svg',
+    humanName: 'УРАЛПРОМБАНК',
+    matchedBankNames: [
+      'JOINT STOCK "URALS INDUSTRIAL BANK"',
+      'JS "URALINDBANK"',
+    ],
+  },
+  {
+    fileName: 'bankuralsib.svg',
+    humanName: 'БАНК УРАЛСИБ',
+    matchedBankNames: [
+      'OJSC BANK URALSIB',
+      'УРАЛСИБ',
+      'Public joint stock company "BANK URALSIB"',
+      'PJSC "BANK URALSIB"',
+    ],
+  },
+  {
+    fileName: 'uralfinans.svg',
+    humanName: 'Уралфинанс',
+    matchedBankNames: [
+      '"Uralfinance" Commercial bank',
+    ],
+  },
+  {
+    fileName: 'ubrr.svg',
+    humanName: 'УБРиР',
+    matchedBankNames: [
+      'URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT',
+      'УРАЛЬСКИЙ БАНК РЕКОНСТРУКЦИИ И РАЗВИТИЯ',
+      'Public Joint Stock Company "The Ural Bank for Reconstruction and Development"',
+      'UBRD, PJSC',
+    ],
+  },
+  {
+    fileName: 'uralfd.svg',
+    humanName: 'Урал ФД',
+    matchedBankNames: [
+      'Joint-Stock Company Commercial Bank "Ural FD"',
+      'Bank Ural FD',
+    ],
+  },
+  {
+    fileName: 'woori.svg',
+    humanName: 'Ури Банк',
+    matchedBankNames: [
+      'AO Woori Bank',
+    ],
+  },
+  {
+    fileName: 'finsb.svg',
+    humanName: 'Банк Финсервис',
+    matchedBankNames: [
+      'Joint Stock Company "Bank Finservice"',
+      'JSC "Bank Finservice"',
+    ],
+  },
+  {
+    fileName: 'open.svg',
+    humanName: 'Банк "ФК Открытие"',
+    matchedBankNames: [
+      'CB OTKRITIE CJSC',
+      'JSCB JSCB BINBANK',
+      'PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION',
+      'Открытие',
+      'ОТП БАНК',
+      // 'ПРИО-ВНЕШТОРГБАНК',
+      'ФК ОТКРЫТИЕ',
+      'Public Joint-Stock Company "Bank Otkritie Financial Corporation"',
+      '"Bank Otkritie Financial Corporation" (Public Joint-Stock Company)',
+    ],
+  },
+  {
+    fileName: 'vwfs.png',
+    humanName: 'Фольксваген Банк РУС',
+    matchedBankNames: [
+      'Limited Liability Company Volkswagen Bank RUS',
+      'LLC VW Bank RUS',
+    ],
+  },
+  {
+    fileName: 'forabank.svg',
+    humanName: 'ФОРА-БАНК',
+    matchedBankNames: [
+      '"FORA-BANK" Joint-Stock Commercial Bank',
+      'FORA-BANK',
+    ],
+  },
+  {
+    fileName: 'forshtadt.svg',
+    humanName: 'Форштадт',
+    matchedBankNames: [
+      'Joint-stock commercial bank "Forshtadt" (joint-stock company)',
+      'JSCB "Forshtadt" (JSC)',
+    ],
+  },
+  {
+    fileName: 'cifra-bank.svg',
+    humanName: 'Цифра банк',
+    matchedBankNames: [
+      'Limited Liability Company "Cifra bank"',
+      '"Cifra bank" LLC',
+    ],
+  },
+  {
     fileName: 'hlynov_bank.png',
     humanName: 'КБ Хлынов',
     matchedBankNames: [
@@ -2096,19 +2203,6 @@ export const banks: IBankLogoItem[] = [
     matchedBankNames: [
       'JSCB MOSCOW INDUSTRIAL BANK',
       'МОСКОВСКИЙ ИНДУСТРИАЛЬНЫЙ БАНК',
-    ],
-  },
-  {
-    fileName: 'otkrytie_bank.png',
-    humanName: 'Банк ОТКРЫТИЕ',
-    matchedBankNames: [
-      'CB OTKRITIE CJSC',
-      'JSCB JSCB BINBANK',
-      'PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION',
-      'Открытие',
-      'ОТП БАНК',
-      // 'ПРИО-ВНЕШТОРГБАНК',
-      'ФК ОТКРЫТИЕ',
     ],
   },
   {
@@ -2166,22 +2260,6 @@ export const banks: IBankLogoItem[] = [
     humanName: 'Сургутнефтегазбанк',
     matchedBankNames: [
       'СУРГУТНЕФТЕГАЗБАНК',
-    ],
-  },
-  {
-    fileName: 'ubrirbank.png',
-    humanName: 'УБРиР',
-    matchedBankNames: [
-      'URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT',
-      'УРАЛЬСКИЙ БАНК РЕКОНСТРУКЦИИ И РАЗВИТИЯ',
-    ],
-  },
-  {
-    fileName: 'uralsib_bank.png',
-    humanName: 'БАНК УРАЛСИБ',
-    matchedBankNames: [
-      'OJSC BANK URALSIB',
-      'УРАЛСИБ',
     ],
   },
   {
