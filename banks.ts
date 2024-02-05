@@ -382,11 +382,6 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'ekonombank.png',
-    humanName: 'Экономбанк',
-    matchedBankNames: ['ЭКОНОМБАНК'],
-  },
-  {
     fileName: 'ekspobank.svg',
     humanName: 'Экспобанк',
     matchedBankNames: [
@@ -2177,19 +2172,123 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'hlynov_bank.png',
-    humanName: 'КБ Хлынов',
+    fileName: 'kbhmb.svg',
+    humanName: 'Хакасский муниципальный банк',
     matchedBankNames: [
-      'ХЛЫНОВ',
+      'Commercial bank "KHAKAS MUNICIPAL BANK" (limited liability company)',
+      'Khakas municipal bank Co. LTD',
     ],
   },
   {
-    fileName: 'houm_kredit_bank.png',
+    fileName: '',
+    humanName: 'Комбанк "Химик"',
+    matchedBankNames: [
+      'Public joint stock company commercial bank "Khimik" (PJSCCB "KHIMIK")',
+    ],
+  },
+  {
+    fileName: 'home.svg',
     humanName: 'ХКФ Банк',
     matchedBankNames: [
       'LIMITED LIABILITY COMPANY HOME CREDIT & FINANCE BANK',
       'LLC HOME CREDIT AND FINANCE BANK',
       'ХКФ БАНК',
+      'Home Credit & Finance Bank Limited Liability Company',
+      'HCF Bank',
+    ],
+  },
+  {
+    fileName: 'bank-hlynov.svg',
+    humanName: 'КБ Хлынов',
+    matchedBankNames: [
+      'ХЛЫНОВ',
+      'commercial bank "Khlynov" (Joint Stock Company)',
+      'Bank "Khlynov"',
+    ],
+  },
+  {
+    fileName: 'centrinvest.svg',
+    humanName: 'Центр-инвест',
+    matchedBankNames: [
+      'Public Joint-Stock company commercial Bank "Center-invest"',
+      'Center-invest Bank',
+    ],
+  },
+  {
+    fileName: 'ccb.svg',
+    humanName: 'ЦентроКредит',
+    matchedBankNames: [
+      'CentroCredit Bank',
+    ],
+  },
+  {
+    fileName: 'cmrbank.svg',
+    humanName: 'ЦМРБанк',
+    matchedBankNames: [
+      'CMRBank (LLC)',
+    ],
+  },
+  {
+    fileName: 'china-construction-bank.svg',
+    humanName: 'Чайна Констракшн Банк',
+    matchedBankNames: [
+      'China Construction Bank (Russia) Limited',
+      'CCB (Russia) Ltd.',
+    ],
+  },
+  {
+    fileName: 'abchina.svg',
+    humanName: 'Чайнасельхозбанк',
+    matchedBankNames: [
+      'Agricultural Bank of China (Moscow) Limited',
+      'ABC Moscow',
+    ],
+  },
+  {
+    fileName: 'chelind.svg',
+    humanName: 'ЧЕЛИНДБАНК',
+    matchedBankNames: [
+      'JOINT-STOCK COMMERCIAL BANK "CHELINDBANK" (public joint-stock company)',
+      'PJSC "CHELINDBANK"',
+    ],
+  },
+  {
+    fileName: 'chelinvest.svg',
+    humanName: 'ЧЕЛЯБИНВЕСТБАНК',
+    matchedBankNames: [
+      'Chelyabinvestbank',
+    ],
+  },
+  {
+    fileName: 'hsbc.svg',
+    humanName: 'Эйч-эс-би-си Банк (РР)',
+    matchedBankNames: [
+      'HSBC Bank (RR) (Limited Liability Company)',
+      'OOO HSBC Bank (RR)',
+    ],
+  },
+  {
+    fileName: '',
+    humanName: 'ЭКО-ИНВЕСТ',
+    matchedBankNames: [
+      'Commercial bank "ECO-INVEST" Limited',
+      'CB "ECO-INVEST" Ltd',
+    ],
+  },
+  {
+    fileName: 'econombank.svg',
+    humanName: 'Экономбанк',
+    matchedBankNames: [
+      'ЭКОНОМБАНК',
+      'JSC "Econombank"',
+    ],
+  },
+  {
+    fileName: 'exibank.svg',
+    humanName: 'ЭКСИ-Банк',
+    matchedBankNames: [
+      'Export-Import Joint Stock Bank',
+      'EXI-Bank',
     ],
   },
   {
