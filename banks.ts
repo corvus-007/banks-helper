@@ -382,13 +382,6 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'ekspobank.svg',
-    humanName: 'Экспобанк',
-    matchedBankNames: [
-      'ЭКСПОБАНК',
-    ],
-  },
-  {
     fileName: 'gazprombank.svg',
     humanName: 'Банк ГПБ',
     matchedBankNames: [
@@ -2292,6 +2285,101 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'ekspobank.svg',
+    humanName: 'Экспобанк',
+    matchedBankNames: [
+      'ЭКСПОБАНК',
+      'Expobank Joint stock company',
+      'Expobank JSC',
+    ],
+  },
+  {
+    fileName: 'bankelita.svg',
+    humanName: 'Элита',
+    matchedBankNames: [
+      'BANK "ELITA"',
+    ],
+  },
+  {
+    fileName: 'mufg.svg',
+    humanName: 'Эм-Ю-Эф-Джи Банк (Евразия)',
+    matchedBankNames: [
+      'Joint Stock Company MUFG Bank (Eurasia)',
+      'AO MUFG Bank (Eurasia)',
+    ],
+  },
+  {
+    fileName: 'energobank.svg',
+    humanName: 'Энергобанк',
+    matchedBankNames: [
+      'JSCB "Energobank"',
+    ],
+  },
+  {
+    fileName: 'energotransbank.svg',
+    humanName: 'ЭНЕРГОТРАНСБАНК',
+    matchedBankNames: [
+      'COMMERCIAL BANK "ENERGOTRANSBANK" joint-stock company',
+      'CB "ENERGOTRANSBANK" (JSC)',
+    ],
+  },
+  {
+    fileName: 'sbibankllc.svg',
+    humanName: 'Эс-Би-Ай Банк',
+    matchedBankNames: [
+      'SBI Bank Limited Liability Company',
+      'SBI Bank LLC',
+    ],
+  },
+  {
+    fileName: 'ubs.svg',
+    humanName: 'Ю Би Эс Банк',
+    matchedBankNames: [
+      'OOO UBS Bank',
+    ],
+  },
+  {
+    fileName: 'invb.svg',
+    humanName: 'ЮГ-Инвестбанк',
+    matchedBankNames: [
+      '"Yug-Investbank" (Public Joint-Stock Company)',
+      'Yug-Investbank',
+    ],
+  },
+  {
+    fileName: 'unicreditbank.svg',
+    humanName: 'ЮниКредит Банк',
+    matchedBankNames: [
+      'CJSC UNICREDIT BANK',
+      'ЮНИКРЕДИТ БАНК',
+      'Joint Stock Company UniCredit Bank',
+      'AO UniCredit Bank',
+    ],
+  },
+  {
+    fileName: 'unistream.svg',
+    humanName: 'ЮНИСТРИМ',
+    matchedBankNames: [
+      'UNISTREAM COMMERCIAL BANK (JSC)',
+      'UNISTREAM BANK',
+    ],
+  },
+  {
+    fileName: 'yandeks_bank.svg',
+    humanName: 'Яндекс Банк',
+    matchedBankNames: [
+      'YANDEX.MONEY NBCO LLC',
+      'ЯНДЕКС',
+      'Joint stock company "Yandex Bank"',
+      'JSC "Yandex Bank"',
+    ],
+  },
+  {
+    fileName: 'yarinterbank.svg',
+    humanName: 'ЯРИНТЕРБАНК',
+    matchedBankNames: [],
+  },
+  {
     fileName: 'interprogressbank.png',
     humanName: 'ИНТЕРПРОГРЕССБАНК',
     matchedBankNames: [],
@@ -2416,26 +2504,10 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'yandeks_bank.svg',
-    humanName: 'Яндекс Банк',
-    matchedBankNames: [
-      'YANDEX.MONEY NBCO LLC',
-      'ЯНДЕКС',
-    ],
-  },
-  {
     fileName: 'yumanibank.svg',
     humanName: 'ЮMoney',
     matchedBankNames: [
       'Юмани (Юmoney)',
-    ],
-  },
-  {
-    fileName: 'yunikredit_bank.png',
-    humanName: 'ЮниКредит Банк',
-    matchedBankNames: [
-      'CJSC UNICREDIT BANK',
-      'ЮНИКРЕДИТ БАНК',
     ],
   },
   {
