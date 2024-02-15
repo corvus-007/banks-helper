@@ -1151,7 +1151,7 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'natixis.svg',
+    fileName: 'natixis.png',
     humanName: 'Натиксис Банк',
     matchedBankNames: [
       'Joint Stock Company Natixis Bank',
