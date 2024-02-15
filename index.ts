@@ -5,7 +5,7 @@ const UNKNOWN_BANK_FILE_NAME = 'unknown.svg';
 
 const findBank = (bankName: string): IBankLogoItem => {
   return banks.find(({ matchedBankNames, humanName }) => {
-    return [...matchedBankNames, humanName].includes(bankName);
+    return [...matchedBankNames, humanName].map(it => it.toLowerCase()).includes(bankName.toLowerCase());
   });
 };
 
