@@ -2797,4 +2797,88 @@ export const banks: IBankLogoItem[] = [
       'OPEN JOINT-STOCK COMPANY XALQ BANK',
     ],
   },
+  {
+    fileName: 'ab.svg',
+    humanName: 'Айыл Банк',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'bakai.svg',
+    humanName: 'Бакай Банк',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'mbank.svg',
+    humanName: 'MBank',
+    matchedBankNames: [
+      'Коммерческий банк КЫРГЫЗСТАН'
+    ],
+  },
+  {
+    fileName: 'dcb.svg',
+    humanName: 'Дос-Кредобанк',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'fkb.svg',
+    humanName: 'ФинансКредитБанк',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'kicb.svg',
+    humanName: 'Кыргызский Инвестиционно-Кредитный Банк',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'keremetbank.svg',
+    humanName: 'Керемет Банк',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'rsk.svg',
+    humanName: 'РСК Банк',
+    matchedBankNames: [
+      'Элдик Банк'
+    ],
+  },
+  {
+    fileName: 'baitushum.svg',
+    humanName: 'Бай-Тушум Банк',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'btabank.svg',
+    humanName: 'БТА Банк',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'fincabank.svg',
+    humanName: 'ФИНКА Банк',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'halykbank.svg',
+    humanName: 'Народный Банк Кыргызстана',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'kompanion.svg',
+    humanName: 'Банк Компаньон',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'optimabank.svg',
+    humanName: 'Оптима Банк',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'amanbank.svg',
+    humanName: 'РК АМАНБАНК',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'demirbank.svg',
+    humanName: 'DemirBank',
+    matchedBankNames: [],
+  },
 ];
