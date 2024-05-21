@@ -2,6 +2,13 @@ import { IBankLogoItem } from './IBankLogoItem';
 
 export const banks: IBankLogoItem[] = [
   {
+    fileName: 'mbank.svg',
+    humanName: 'MBank',
+    matchedBankNames: [
+      'Коммерческий банк КЫРГЫЗСТАН'
+    ],
+  },
+  {
     fileName: 'absolutbank.svg',
     humanName: 'АКБ Абсолют Банк',
     matchedBankNames: [
@@ -2806,13 +2813,6 @@ export const banks: IBankLogoItem[] = [
     fileName: 'bakai.svg',
     humanName: 'Бакай Банк',
     matchedBankNames: [],
-  },
-  {
-    fileName: 'mbank.svg',
-    humanName: 'MBank',
-    matchedBankNames: [
-      'Коммерческий банк КЫРГЫЗСТАН'
-    ],
   },
   {
     fileName: 'dcb.svg',
