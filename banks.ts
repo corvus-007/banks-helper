@@ -2391,11 +2391,6 @@ export const banks: IBankLogoItem[] = [
     matchedBankNames: [],
   },
   {
-    fileName: 'interprogressbank.png',
-    humanName: 'ИНТЕРПРОГРЕССБАНК',
-    matchedBankNames: [],
-  },
-  {
     fileName: 'minbank.png',
     humanName: 'Московский Индустриальный Банк',
     matchedBankNames: [
