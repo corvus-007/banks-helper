@@ -999,7 +999,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'metallinvestbank.svg',
-    humanName: 'Металлинвестбанк',
+    humanName: 'АКБ Металлинвестбанк',
     matchedBankNames: [
       'PUBLIC JOINT STOCK COMPANY STOCK COMMERCIAL BANK "METALLURGICAL INVESTMENT BANK"',
       'PJSC SCB "Metallinvestbank"',
@@ -2138,8 +2138,6 @@ export const banks: IBankLogoItem[] = [
       'JSCB JSCB BINBANK',
       'PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION',
       'Открытие',
-      'ОТП БАНК',
-      // 'ПРИО-ВНЕШТОРГБАНК',
       'ФК ОТКРЫТИЕ',
       'Public Joint-Stock Company "Bank Otkritie Financial Corporation"',
       '"Bank Otkritie Financial Corporation" (Public Joint-Stock Company)',
