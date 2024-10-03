@@ -1036,6 +1036,11 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
+    fileName: 'hicebank.svg',
+    humanName: 'Хайс Банк',
+    matchedBankNames: [],
+  },
+  {
     fileName: 'maritimebank.svg',
     humanName: 'МОРСКОЙ БАНК',
     matchedBankNames: [
