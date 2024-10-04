@@ -2882,6 +2882,8 @@ export const banks: IBankLogoItem[] = [
   {
     fileName: 'amra-bank.svg',
     humanName: 'Амра-банк',
-    matchedBankNames: [],
+    matchedBankNames: [
+      'AmraBank',
+    ],
   },
 ];
