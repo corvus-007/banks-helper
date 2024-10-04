@@ -11,6 +11,6 @@
   "author": "Denis Vasilev",
   "license": "ISC",
   "devDependencies": {
-    "vite": "5.1.0-beta.2"
+    "vite": "5.2.6"
   }
 }
