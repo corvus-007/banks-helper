@@ -2886,4 +2886,11 @@ export const banks: IBankLogoItem[] = [
       'AmraBank',
     ],
   },
+  {
+    fileName: 'cibit-bank.svg',
+    humanName: 'Cibit-Bank',
+    matchedBankNames: [
+      'CibitBank',
+    ],
+  },
 ];
