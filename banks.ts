@@ -2803,7 +2803,9 @@ export const banks: IBankLogoItem[] = [
   {
     fileName: 'bakai.svg',
     humanName: 'Бакай Банк',
-    matchedBankNames: [],
+    matchedBankNames: [
+      'Bakai',
+    ],
   },
   {
     fileName: 'mbank.svg',
