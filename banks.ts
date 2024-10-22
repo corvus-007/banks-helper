@@ -1847,6 +1847,7 @@ export const banks: IBankLogoItem[] = [
       'СОВКОМБАНК',
       'Public Joint-Stock Company "Sovcombank"',
       'PJSC "Sovcombank"',
+      'SOVCOM',
     ],
   },
   {
