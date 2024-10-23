@@ -2896,4 +2896,11 @@ export const banks: IBankLogoItem[] = [
       'CibitBank',
     ],
   },
+  {
+    fileName: 'sbra.svg',
+    humanName: 'СБЕРБАНК Абхазии',
+    matchedBankNames: [
+      'Сбербанк Абхазии',
+    ],
+  },
 ];
