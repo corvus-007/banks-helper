@@ -2917,4 +2917,11 @@ export const banks: IBankLogoItem[] = [
     humanName: 'Универсал-банк',
     matchedBankNames: [],
   },
+  {
+    fileName: 'aurora-bank.svg',
+    humanName: 'Аврора Банк',
+    matchedBankNames: [
+      'Aurora-Bank',
+    ],
+  },
 ];
