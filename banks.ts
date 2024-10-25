@@ -2887,6 +2887,7 @@ export const banks: IBankLogoItem[] = [
     humanName: 'Амра-банк',
     matchedBankNames: [
       'AmraBank',
+      'Amra-bank',
     ],
   },
   {
@@ -2908,6 +2909,7 @@ export const banks: IBankLogoItem[] = [
     humanName: 'Гарант-Банк',
     matchedBankNames: [
       'GarantBank',
+      'GARANT - bank',
     ],
   },
   {
