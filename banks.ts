@@ -2903,4 +2903,16 @@ export const banks: IBankLogoItem[] = [
       'Сбербанк Абхазии',
     ],
   },
+  {
+    fileName: 'garant-b.svg',
+    humanName: 'Гарант-Банк',
+    matchedBankNames: [
+      'GarantBank',
+    ],
+  },
+  {
+    fileName: 'unibank-ab.svg',
+    humanName: 'Универсал-банк',
+    matchedBankNames: [],
+  },
 ];
