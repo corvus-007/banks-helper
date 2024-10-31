@@ -2924,4 +2924,11 @@ export const banks: IBankLogoItem[] = [
       'Aurora-Bank',
     ],
   },
+  {
+    fileName: 'dc.svg',
+    humanName: 'Dushanbe city',
+    matchedBankNames: [
+      'Dushanbe City Bank',
+    ],
+  },
 ];
