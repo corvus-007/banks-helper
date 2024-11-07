@@ -2888,6 +2888,7 @@ export const banks: IBankLogoItem[] = [
     matchedBankNames: [
       'AmraBank',
       'Amra-bank',
+      'Amra',
     ],
   },
   {
