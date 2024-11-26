@@ -1999,13 +1999,15 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'tinkoff_bank.svg',
-    humanName: 'Тинькофф Банк',
+    fileName: 'tbank.svg',
+    humanName: 'Т-Банк',
     matchedBankNames: [
       'TINKOFF BANK',
       'Тинькоф',
       'ТИНЬКОФФ БАНК',
       'Tinkoff Bank',
+      'ТБанк',
+      'tbank',
     ],
   },
   {
