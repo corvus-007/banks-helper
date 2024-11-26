@@ -2489,6 +2489,7 @@ export const banks: IBankLogoItem[] = [
       'CREDIT BANK OF MOSCOW',
       'VTB Bank (Public Joint-Stock Company)',
       'VTB Bank (PJSC)',
+      'VTB BANK',
     ],
   },
   {
