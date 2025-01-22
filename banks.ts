@@ -2930,7 +2930,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'dc.svg',
-    humanName: 'Dushanbe city',
+    humanName: 'Душанбе Сити Банк',
     matchedBankNames: [
       'Dushanbe City Bank',
     ],
@@ -2945,7 +2945,20 @@ export const banks: IBankLogoItem[] = [
   {
     fileName: 'bsdbank.svg',
     humanName: 'Черноморский банк развития',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'eskhata.svg',
+    humanName: 'Эсхата Банк',
     matchedBankNames: [
+      'eskhata',
+    ],
+  },
+  {
+    fileName: 'alif.svg',
+    humanName: 'Алиф Банк',
+    matchedBankNames: [
+      'alif',
     ],
   },
 ];
