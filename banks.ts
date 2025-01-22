@@ -2942,4 +2942,10 @@ export const banks: IBankLogoItem[] = [
       'А-Мобаил',
     ],
   },
+  {
+    fileName: 'bsdbank.svg',
+    humanName: 'Черноморский банк развития',
+    matchedBankNames: [
+    ],
+  },
 ];
