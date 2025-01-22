@@ -2935,4 +2935,11 @@ export const banks: IBankLogoItem[] = [
       'Dushanbe City Bank',
     ],
   },
+  {
+    fileName: 'a-mobile.svg',
+    humanName: 'A-mobile',
+    matchedBankNames: [
+      'А-Мобаил',
+    ],
+  },
 ];
