@@ -2949,7 +2949,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: 'eskhata.svg',
-    humanName: 'Эсхата Банк',
+    humanName: 'Банк Эсхата',
     matchedBankNames: [
       'eskhata',
     ],
