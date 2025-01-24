@@ -2963,7 +2963,7 @@ export const banks: IBankLogoItem[] = [
   },
   {
     fileName: '',
-    humanName: 'E-Wallet',
+    humanName: 'E-wallet',
     matchedBankNames: [
       'Электронный кошелек',
       'евалет',
