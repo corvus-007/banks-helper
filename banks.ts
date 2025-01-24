@@ -2961,4 +2961,15 @@ export const banks: IBankLogoItem[] = [
       'alif',
     ],
   },
+  {
+    fileName: '',
+    humanName: 'E-Wallet',
+    matchedBankNames: [
+      'Электронный кошелек',
+      'евалет',
+      'еваллет',
+      'еволет',
+      'еволлет',
+    ],
+  },
 ];
