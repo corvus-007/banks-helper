@@ -501,14 +501,6 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'denizbank.svg',
-    humanName: 'Денизбанк Москва',
-    matchedBankNames: [
-      'Joint-Stock Company "Denizbank Moscow"',
-      'JSC "Denizbank Moscow"',
-    ],
-  },
-  {
     fileName: 'derzhava.svg',
     humanName: 'АКБ Держава',
     matchedBankNames: [
@@ -653,17 +645,6 @@ export const banks: IBankLogoItem[] = [
     ],
   },
   {
-    fileName: 'ziraatbank.svg',
-    humanName: 'ЗИРААТ БАНК (МОСКВА)',
-    matchedBankNames: [
-      'ZIRAAT BANK',
-      'ZIRAAT BANKASI',
-      'TURKISH ZIRAAT BANK BOSNIA D.D.',
-      '"Ziraat Bank (Moscow)" (Joint Stock Company)',
-      'ZIRAAT BANK (MOSCOW)" (JSC)',
-    ],
-  },
-  {
     fileName: 'icbru.svg',
     humanName: 'ИК Банк',
     matchedBankNames: [
@@ -684,14 +665,6 @@ export const banks: IBankLogoItem[] = [
     matchedBankNames: [
       'INVESTTORGBANK',
       'ITB',
-    ],
-  },
-  {
-    fileName: 'ingwb.svg',
-    humanName: 'ИНГ БАНК (ЕВРАЗИЯ)',
-    matchedBankNames: [
-      'ING BANK (EURASIA) JOINT STOCK COMPANY',
-      'ING BANK (EURASIA) JSC',
     ],
   },
   {
@@ -733,14 +706,6 @@ export const banks: IBankLogoItem[] = [
     matchedBankNames: [
       'BANK "ITURUP" Limited liability company',
       'BANK "ITURUP" (LLC)',
-    ],
-  },
-  {
-    fileName: 'ishbank.svg',
-    humanName: 'ИШБАНК',
-    matchedBankNames: [
-      'Joint Stock Company ISBANK',
-      'ISBANK',
     ],
   },
   {
@@ -2970,6 +2935,98 @@ export const banks: IBankLogoItem[] = [
       'еваллет',
       'еволет',
       'еволлет',
+    ],
+  },
+  {
+    fileName: 'turkiyefinans.svg',
+    humanName: 'Türkiye Finans',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'enpara.svg',
+    humanName: 'Enpara.com',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'qnb.svg',
+    humanName: 'QNB',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'denizbank.svg',
+    humanName: 'Денизбанк Москва',
+    matchedBankNames: [
+      'Joint-Stock Company "Denizbank Moscow"',
+      'JSC "Denizbank Moscow"',
+    ],
+  },
+  {
+    fileName: 'odeabank.svg',
+    humanName: 'Odeabank',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'ingwb.svg',
+    humanName: 'ИНГ БАНК (ЕВРАЗИЯ)',
+    matchedBankNames: [
+      'ING BANK (EURASIA) JOINT STOCK COMPANY',
+      'ING BANK (EURASIA) JSC',
+    ],
+  },
+  {
+    fileName: 'yapikredi.svg',
+    humanName: 'Yapı Kredi',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'ishbank.svg',
+    humanName: 'ИШБАНК',
+    matchedBankNames: [
+      'Joint Stock Company ISBANK',
+      'ISBANK',
+    ],
+  },
+  {
+    fileName: 'sekerbank.svg',
+    humanName: 'Şekerbank',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'akbank.svg',
+    humanName: 'Akbank',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'vakifbank.svg',
+    humanName: 'VakıfBank',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'halkbank.svg',
+    humanName: 'Halkbank',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'garantibbva.svg',
+    humanName: 'Garanti BBVA',
+    matchedBankNames: [],
+  },
+  {
+    fileName: 'ziraatbank.svg',
+    humanName: 'ЗИРААТ БАНК (МОСКВА)',
+    matchedBankNames: [
+      'ZIRAAT BANK',
+      'ZIRAAT BANKASI',
+      'TURKISH ZIRAAT BANK BOSNIA D.D.',
+      '"Ziraat Bank (Moscow)" (Joint Stock Company)',
+      'ZIRAAT BANK (MOSCOW)" (JSC)',
+    ],
+  },
+  {
+    fileName: 'teb.svg',
+    humanName: 'TEB',
+    matchedBankNames: [
+      'Türk Ekonomi Bankası'
     ],
   },
 ];
