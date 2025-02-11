@@ -1,6 +1,6 @@
 {
   "name": "banks-helper",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "Helps to work with banks names",
   "main": "index.ts",
   "scripts": {
