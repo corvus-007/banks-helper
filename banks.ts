@@ -3025,7 +3025,24 @@ export const banks: IBankLogoItem[] = [
     fileName: 'teb.svg',
     humanName: 'TEB',
     matchedBankNames: [
-      'Türk Ekonomi Bankası'
+      'Türk Ekonomi Bankası',
+    ],
+  },
+  {
+    fileName: 'oriyonbonk.svg',
+    humanName: 'ОРИЁНБАНК',
+    matchedBankNames: [
+      'Ориёнбонк',
+      'Ориeнбонк',
+      'Ориенбанк',
+      'Oriyonbonk',
+    ],
+  },
+  {
+    fileName: 'ibt.svg',
+    humanName: 'МЕЖДУНАРОДНЫЙ БАНК ТАДЖИКИСТАНА',
+    matchedBankNames: [
+      'ibt',
     ],
   },
 ];
