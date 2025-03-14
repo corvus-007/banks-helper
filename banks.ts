@@ -3045,4 +3045,11 @@ export const banks: IBankLogoItem[] = [
       'ibt',
     ],
   },
+  {
+    fileName: 'vasl.svg',
+    humanName: 'НБКО ВАСЛ',
+    matchedBankNames: [
+      'vasl',
+    ],
+  },
 ];

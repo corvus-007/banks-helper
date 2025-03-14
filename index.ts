@@ -37,6 +37,7 @@ const getBankLogoName = (bankName: string, banksList: IBankLogoItem[] = banks, i
 
 export {
   UNKNOWN_BANK_FILE_NAME,
+  banks,
   findBank,
   getBankLogoFileName,
   getBankLogoName,
