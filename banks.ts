@@ -3052,4 +3052,32 @@ export const banks: IBankLogoItem[] = [
       'vasl',
     ],
   },
+  {
+    fileName: 'imon.svg',
+    humanName: 'ИМОН ИНТЕРНЕШНЛ',
+    matchedBankNames: [
+      'imon',
+    ],
+  },
+  {
+    fileName: 'matin.svg',
+    humanName: 'МДО МАТИН',
+    matchedBankNames: [
+      'matin',
+    ],
+  },
+  {
+    fileName: 'amonatbonk.svg',
+    humanName: 'АМОНАТБАНК',
+    matchedBankNames: [
+      'АМОНАТБОНК',
+    ],
+  },
+  {
+    fileName: 'arvand.svg',
+    humanName: 'БАНК АРВАНД',
+    matchedBankNames: [
+      'arvand',
+    ],
+  },
 ];
