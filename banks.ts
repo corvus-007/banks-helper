@@ -3080,4 +3080,9 @@ export const banks: IBankLogoItem[] = [
       'arvand',
     ],
   },
+  {
+    fileName: 'spitamenbank.svg',
+    humanName: 'Спитамен Банк',
+    matchedBankNames: [],
+  },
 ];
