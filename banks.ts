@@ -3085,4 +3085,9 @@ export const banks: IBankLogoItem[] = [
     humanName: 'Спитамен Банк',
     matchedBankNames: [],
   },
+  {
+    fileName: 'apexbank.svg',
+    humanName: 'APEX BANK',
+    matchedBankNames: [],
+  },
 ];
